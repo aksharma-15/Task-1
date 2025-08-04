@@ -10,4 +10,4 @@ Task 1: Data cleaning and preprocessing
    - DATEVALUE (For the date column I also used the text split feature of Excel to extract dates)
 ## 3. I have used Go to Special feature in order to remove blank spaces and errors and replaced all of them with TBA (to clear the cells filled with erors I first erased the contents in them by using Find and replace.
 
-     
+## Both files have been uploaded (the raw file with the dirty and messy data and the clean file in which I have worked)
