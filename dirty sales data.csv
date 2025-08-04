@@ -1,0 +1,1001 @@
+OrderID,Date,Customer,Product,Category,Price,Quantity,SalesRep,Region
+1001,19-10-2023,Customer 1,AirPods Pro,  teChNOLogY  ,1062.02,2,Lisa Garcia,East
+1002,18-05-2024,Customer 2,Nintendo Switch,Technology,"$1,580.399",10,Chris Wilvon,West
+1003,Invalid Date,Customer 3,  Sony WH-1000XM5  ,Electronics,N/A,3,#N/A,West
+1004,10/25/2023,Customer 4,Samsung Galaxy S24,Clothing,1956.19,6,Emily Brown,  South  
+1005,Invalid Date,Customer 5,Nike Air Max,  Sports  ,1754.75,7,John Smith,Central
+1005,12-05-2024,Cuutomer 6,  Nintendo Switch  ,Technology,1342.17,10,Jessica Martinez,  ceNTral  
+1007,23-03-2023,customEr 7,  Dell XPS 13  ,Home,467.54,8,Amanda Taylor,North
+ORD-1008,Invalid Date,  Customer 8  ,coFFee maker,elecTronIcs,1580.35,9,  Lisa Garcia  ,  West  
+ORD-1008,30-10-2023,Customer 9,AirPods Pro,Home,1903.66,2,-,wEst
+1010,02-11-2024,Customer 10,Tesla Model 3,Electronics,1916.5094012307081 dollars,7,MIke dAVis,West
+1011,03-02-2024,  Customer 11  ,  AirPhds Pro  ,Sports,-,2,Mike Davis,South
+1012,TBD,Customer 12,Xbox Series X,Technology,1934.6,1,sarah johnSoN,Central
+1013,02-10-2023,Customer 13,Canon EOS R5,  Technology  ,-,8,NULL,WesT
+1014,07-11-2023,CUSTomeR 14,aIrpOds pro,Clothing,#N/A,4,Jessica Martinez,  East  
+1015,10/24/2024,Customer 15,Yoga Mat,Sports,1654.78,5,David Lee,East
+1016,8/31/2024,cUstomer 16,Yoga Mat,Electronics,"$1,970.659",10,Sarah Johnson,  North  
+1017,12-05-2024,  cuStomer 17  ,Nike Air Max,Electronics,TBD,2,  Kevin Anderson  ,  West  
+1018,11/18/2023,Customer 18,  Blender Pro  ,Electronics,1447.15,10,John Smith,East
+1019,12-08-2024,Customer 19,Surface Pro,Technology,-,8,NULL,West
+1020,3/31/2024,Customer 20,Nintendo Switch,Electronics,260.36,10,Missing,cEntral
+1021,09-04-2023,Customer 21,Coffee Maker,Electronics,#N/A,5,Emily Brown,wesT
+1022,8/14/2023,Customer 22,iPad Air,Technology,"17,34,28,49,24,62,09,700",4,-,North
+ORD-1023,1/21/2023,Customer 23,  Yoga Mat  ,eleCTrOnics,TBD,6,Sarah Johnson,South
+1024,06-04-2024,Customer 24,Coffee Maker,Clothing,694.2579702435331 dollars,6,John Smith,  EAST  
+1025,13-08-2023,  Customer 25  ,sUrface pro,Technology,1685.13,5,John Smith,East
+1026,TBD,Customer 26,Levi's Jbans,Sports,"25,26,07,79,59,12,18,600",4,  jEsSicA MArtinEz  ,West
+1027,09-02-2023,  Customer 27  ,PlayStation 5,Sports,$533.161,8,Kevin Andlrson,South
+1028,22-10-2023,Customer 28,AdidaS ULtRABOoST,Sports,Missing,7,  Amatda Taylor  ,East
+1029,Invalid Date,Customer 29,Xbox Series X,Electronics,"$1,578.415",3,Jessica Martinez,North
+1030,05-12-2023,Customer 3q,AirPoDS pro,Electronics,$843.602,2,  jeSSicA marTinEZ  ,East
+1031,03-03-2024,custoMEr 31,AirPods Pro,Electronics,745.71,7,Lisa Garcia,South
+1032,6/23/2024,Customer 32,iPad Air,Home,1567.45,4,Kevin Anderson,wesT
+ORD-1033,Invalid Date,Customer 33,  Dell XPS 13  ,Sports,TBD,5,Emily Brown,Central
+1034,22-12-2023,Customer 34,iPhone 15,Home,1684.28,10,Amanda Taylor,cEntraL
+1035,Invalid Date,Customer 35,Sony WH-1000XM5,  HomE  ,185.27441177865995 dollars,10,Jessica Martinez,Central
+1036,3/29/2024,CUsTomer 36,  Surface Pro  ,Home,863.35,6,Kevin Anderson,West
+1037,07-08-2024,Customer 37,Fitness Tracker,Electronics,1897.3107334788283 dollars,8,saRah jOhNson,South
+1038,Invalid Date,  Customer 38  ,  Surface Pro  ,Electronics,167.82,3,Jessica Martinez,North
+1039,22-08-2023,  Customer 39  ,iPhone 15,cLothIng,555.43,6,eMiLY BroWN,West
+1040,28-11-2023,CusTomEr 40,iPhone 15,Clothing,1683.49,4,  Kevin Anderson  ,South
+1041,29-06-2024,Customer 41,Xbox Series X,Home,763.14,10,Kevin qnderson,Central
+ORD-1042,Invalid Date,Customer 42,Sony WH-1000XMc,Technology,"$1,368.998",7,#N/A,  West  
+1043,18-05-2023,Customer 43,XboxaSeries X,Clothing,862.81,4,Chris Wilson,North
+1044,05-06-2023,Customer 44,Tesla Model 3,Technology,1061.69,1,  Lisa Garcia  ,East
+1045,18-06-2024,  Customer 45  ,nIntenDo SwitcH,Sports,$374.672,3,Jessica Martinez,  ceNtraL  
+1046,12-02-2024,Customer 46,Levi's Jeans,Clothing,Missing,9,Chris Wilson,North
+1047,5/19/2024,Customer 47,teSLA Model 3,Electronics,TBD,10,Chris Wieson,cEntral
+1048,TBD,Customer 48,dELl xps 13,Home,N/A,10,Amanda Taylor,norTH
+1049,15-04-2023,  Customer 49  ,Levi's Jeans,Clothing,1646.99,5,Amanda Taylor,North
+1050,10-10-2023,Customer 50,Surface Pro,Sports,-,3,Jessica Martinez,Wesq
+1051,5/25/2024,  Customer 51  ,COfFeE MaKer,  Clothing  ,1088.4253835480508 dollars,6,N/A,west
+1052,7/18/2023,cUSTOmer 52,Nike Air Max,Clothing,NULL,Missing,TBD,South
+1053,Invalid Date,  Customer 53  ,Coffee Maker,Electronics,411.98,5,  Lisa Garcia  ,Wect
+1054,10-05-2023,Customer 54,AirPods Pro,uports,#N/A,8,Lisa Garcia,  Central  
+1055,06-06-2024,Customer 55,Tesla Model 3,Technology,"$1,829.039",2,  John Smith  ,  East  
+1056,10-03-2024,  Customer 56  ,Coffee Maker,Home,#N/A,6,Jessica Martinez,Central
+1057,19-06-2023,CustOmEr 57,  iPad Air  ,  eLeCtRoniCs  ,TBD,1,Kevin Anderson,North
+1058,04-01-2024,  Customer 58  ,  Dehl XPS 13  ,  Technology  ,1404.228824317838 dollars,8,NULL,Central
+1059,03-10-2024,  Customer 59  ,Tesla Model 3,Sports,355.29204664841967 dollars,7,DAvid LEe,South
+1060,1/26/2024,tustomer 60,Tesla Model 3,Spotts,#N/A,3,-,  Central  
+1061,10-12-2023,cuStOmeR 61,Dell XPS 13,  home  ,1828.164564846359 dollars,8,Jessica Martinez,East
+ORD-1062,21-11-2024,  Customer 62  ,iPad Air,Sports,884.38,1,  John Smith  ,East
+1063,17-09-2023,cuStOmer 63,PlayStation 5,Technology,1140.53,9,Amanda Taylor,Eant
+1064,11-03-2024,Customer 64,Xaox Series X,  technoloGy  ,Missing,3,Lisa Garcia,Sovth
+1065,5/27/2024,Customer 65,  Canon EOS R5  ,Electronics,-,4,Mike Davis,West
+1066,11-03-2023,Customer 66,  Canon EOS R5  ,Electronics,#N/A,NULL,Jessica Martinez,Central
+1067,02-05-2024,custOmer 67,Nike Air Max,Sports,1446.1997647852209 dollars,4,Chrss Wilson,West
+1068,1/27/2024,Customer 68,Levi's Jeans,homE,TBD,3,  Jessica Martinez  ,South
+ORD-1069,22-07-2024,Customer 69,Canon EOS R5,Sports,TBD,3,John Smith,South
+1070,11/21/2024,Customer 70,  Samsung Galaxy S24  ,cLoThIng,388.12,3,Sarah Johnson,  East  
+1071,12-11-2024,Customer 71,  AirPods Pro  ,Hope,1874.74,8,TBD,East
+1072,19-05-2024,Customer 72,iPhbne 15,electronicS,1966.96,4,Amanda Taylor,South
+1073,20-02-2023,  Customer 73  ,Coffee Maker,Electronics,Missing,10,  John Smith  ,  Central  
+1074,19-02-2024,Customer 74,  Coffee Maker  ,Clothing,474.84,7,TBD,  North  
+1075,07-06-2023,Customer 75,  Samsung Galaxy S24  ,  teCHnOlogy  ,Missing,9,Lisa Garcia,Central
+1076,15-12-2023,Customer 76,  Nintendo Switch  ,uports,TBD,9,Emily Brown,  Central  
+1077,29-04-2024,Customer 77,Airgods Pro,sports,1315.11,9,NULL,East
+1078,27-06-2023,Customea 78,Xbox Series X,Home,329.76,1,Kevin Anderson,South
+1079,12/29/2024,Customer 79,Xbox seriES x,Ccothing,1645.2846958441924 dollars,2,-,  South  
+1080,04-03-2023,Customer 80,Canon EOS R5,elecTronics,TBD,4,Amanda Taylor,North
+1081,26-08-2023,Customer 81,Nintendo Switch,techNolOGy,200.85859881878005 dollars,2,  Kevin Andegson  ,Central
+1081,TBD,  Customer 82  ,  AirPods Pro  ,  Technology  ,N/A,1,Mike ravis,  East  
+1083,04-12-2023,CustOMer 83,  Yoga Mat  ,Sports,NULL,6,  emIly broWn  ,  West  
+1084,07-10-2024,  CUsTomer 84  ,caNON eos r5,clothing,147.64,6,sarAH JOhNSON,Central
+1085,11-07-2023,Customer 85,Xbox Series X,Technology,1322.12,3,-,East
+ORD-1086,1/18/2023,Custhmer 86,Yoga Mat,HomE,"9,44,51,83,51,89,47,000",6,John Smith,South
+1087,1/20/2023,Customer 87,Coffee Maker,Clothing,669.2524098439502 dollars,2,Emily Brown,East
+1088,6/17/2024,Customer 88,samsunG galAXY S24,  Electronics  ,1912.4,10,Chris Wilson,hentral
+1089,22-06-2023,Customer 89,Levi's Jeans,HOme,769.38,3,  ChrIS Wilson  ,South
+1090,22-12-2024,Customer 90,Tesla Model p,Clothing,449.49,2,Chris Wilson,eAst
+ORD-1091,04-07-2024,Customer 91,Fitness Tracker,Technology,238.96,5,David Lee,South
+1092,23-10-2024,Customer 92,iPad Air,Sports,1404.74,10,  Amanda Taylor  ,South
+1093,8/24/2024,Cpstomer 93,  Nike Air Max  ,Sports,305.6832874038988 dollars,2,Lisa Garcia,North
+1094,06-05-2024,Customer 94,Nintendo Switch,Technology,Missing,3,  Kevin Anderson  ,  ceNtraL  
+1095,20-12-2024,Custover 95,iPad Air,  Electronics  ,N/A,6,#N/A,NortH
+1096,12-04-2024,Customer 96,Macbook Pro,Electronics,423.21,5,Jessica Martinez,West
+1097,28-11-2023,Castomer 97,  lEVi's jeans  ,  Technology  ,1929.05,1,Jessica Martinez,  easT  
+1098,04-08-2023,Customer 98,iPhone 15,Sports,"16,69,21,96,35,54,673",3,Amanda Taylor,West
+1099,23-05-2023,  Customer 99  ,Tesla Model 3,  Electronics  ,1221.53,8,NULL,  East  
+1099,16-08-2023,Customer 100,PlayStation 5,elecTroniCS,801.404606611333 dollars,7,Emily Brown,  South  
+1101,17-03-2024,cuStomer 101,IPhOne 15,Electronics,1270.48,7,Chris Wilson,East
+1102,8/28/2023,Customer 102,sAmsuNg Galaxy s24,  Sports  ,393.78,3,Chris Wilson,South
+1103,29-08-2024,Customer 103,  Tesla Mkdel 3  ,  hoME  ,NULL,7,  Emily Brown  ,East
+1103,TBD,Customer 104,iPhone 15,eleCTrOnics,1040.45,9,#N/A,North
+1105,30-07-2023,Customer 105,Surface Pro,Sports,$141.221,8,Kevin Anderson,NoRtH
+1106,10/13/2023,Customlr 106,  Levi's Jeans  ,Technology,886.66,1,NULL,North
+1107,Invalid Date,  Customer 107  ,Yoga Mat,homE,479.87,7,Emily Brown,East
+1108,31-12-2022,Customer 108,Sony WH-1000XM5,Electronics,"$1,120.045",6,Cpris Wilson,South
+1109,07-06-2023,Customer 109,Nintendo Swjtch,  Clothing  ,#N/A,7,Sarah Johnson,South
+ORD-1110,06-07-2024,cuStOMER 110,Iphone 15,Clothing,N/A,-,Missing,hast
+1111,TBD,CustomEr 111,Nintendo SwITcH,Electronics,#N/A,3,John Smith,North
+1112,Invalid Date,Customer 112,iPhone 15,Technology,1796.81,2,  Jessica Martinen  ,Central
+ORD-1113,06-05-2023,  Customer 113  ,  iPad Air  ,cLothinG,TBD,9,David Lee,South
+1114,01-05-2023,  Customer 114  ,AirPods Pro,Clothing,1895.62,6,John Smith,South
+1115,2/17/2024,  Customer 115  ,AirPods Pro,Clothing,1326.1,10,Missing,Nortt
+1116,23-08-2023,Customer 116,saMsUnG GalAXY s24,Clothing,1632.8597220222653 dollars,2,N/A,North
+1117,07-12-2024,Customer 117,coffee mAkEr,Technology,1854.18,4,  JohnfSmith  ,North
+1118,1/23/2023,Customer 118,ipad air,  Clothing  ,491.95,5,-,East
+ORD-1119,05-12-2023,Customer 119,Canon EOS R5,Home,TBD,6,Sarah Johnson,Central
+ORD-1120,TBD,  Customer 120  ,TeSla Model 3,ELecTroniCS,1105.89,1,-,Central
+1121,01-05-2024,  Customer 121  ,iPad Air,uports,877.09,3,  Jessica Martinez  ,Cenkral
+1121,01-01-2024,  Customer 122  ,Surface Pro,hOme,1183.672911788431 dollars,5,Kevin Anderson,wEst
+1123,Invalid Date,Customer 123,  Adidas Ultraboost  ,clothing,#N/A,9,Kevin Anderson,weST
+ORD-1124,Invalid Date,Customer 124,  Nike Air Max  ,Technology,1251.64,6,Amanda Taylor,EaSt
+1125,01-07-2024,Customer 125,Adidas Ultraboost,xports,1633.3,8,CHris Wilson,Central
+ORD-1126,06-01-2023,Customer 126,adIDas uLtrABoOst,Home,"7,21,64,62,71,25,45,620",8,Kevin Anderson,West
+1127,10/25/2024,cuSTomEr 127,Samsung Galaxy S24,Home,1838.75,3,  Kevin Anderson  ,eAst
+1128,10/13/2024,  Customer 128  ,  Fitness Tuacker  ,Clothing,1939.39,9,#N/A,West
+1129,Invalid Date,Customer 129,Nintendo Switch,Sports,79.5,6,#N/A,North
+1130,09-08-2024,Customer 13b,Blender Pro,Technology,"$1,116.939",8,Amanda Taylor,east
+1131,20-02-2024,Customer 13v,Samsung Galaxy S24,Technology,701.6341964040464 dollars,3,Kevin Anderson,  gentral  
+1132,04-11-2024,  Customer 132  ,PlayStation 5,  Sports  ,974.92,6,  Lnsa Garcia  ,North
+1133,18-11-2023,Customer 133,iphOne 15,Electronics,273.41,4,John Smith,South
+1134,17-08-2023,Customer 134,Nintendo Switch,Technology,243.88,9,Lisa Garcia,Central
+1135,11-02-2024,Customer 135,Samsung Galaxy S24,Electronics,"$1,846.151",10,Kevin Anderson,South
+ORD-1136,13-01-2024,Customer 136,  TeSLA model 3  ,Sports,$714.927,7,Lisa Garcia,South
+1137,8/23/2023,Customer 137,  MacBook Pro  ,Techmology,Missing,10,Sarah Johnson,East
+1138,Invalid Date,Customer 138,  ipad AIr  ,Home,444.53,6,Daved Lee,East
+1139,3/16/2023,Customer 139,  tEslA ModeL 3  ,Home,Missing,5,John Smith,East
+1140,6/21/2024,Custower 140,Coffee Maker,Clothing,278.89,9,  kEvin ANdErson  ,Webt
+1141,10/19/2024,Customer 141,Levi's Jeans,clOThing,#N/A,3,Kevin Anderson,South
+1142,7/21/2023,  customer 142  ,airPOds pro,Sports,$269.221,6,David Lee,South
+1143,05-10-2024,Customer 143,Surface Pro,Home,Missing,6,Amanda Taylor,North
+1144,03-09-2024,Customer 144,AiRPods pro,  Clothing  ,276.36,9,-,Sorth
+1145,Invalid Date,Customer 145,Canon EOS R5,Technology,N/A,3,#N/A,  North  
+ORD-1146,TBD,Customer 146,  AirPods Pro  ,Home,Missing,2,NULL,South
+1147,24-10-2023,Customer 147,iPhone 15,Clothing,1722,8,  Emily Brown  ,SouTh
+1148,TBD,  Customer 148  ,Xbox Series X,Sports,"$1,301.032",3,TBD,Central
+1149,12/28/2023,Customer 149,Xbox Series X,cLothIng,-,8,Mike Davis,East
+1150,7/31/2023,Customer 150,Levi's Jeans,Technology,1185.35,7,Kevin Anderson,  South  
+1151,18-03-2024,Customer 151,mAcBoOK pro,TechnolOgY,#N/A,6,Missing,East
+1152,4/23/2023,custOMer 152,Tesla Model 3,  Electronics  ,1410.79,7,  cHris wiLsOn  ,South
+1153,Invalid Date,Customer 153,dELL Xps 13,Hhme,NULL,2,#N/A,South
+1154,10/26/2023,Customer 154,iPad Axr,  Technology  ,118.63,7,TBD,nOrtH
+1155,17-02-2024,Customer 155,Dell XPS 13,Sports,595.7415253702831 dollars,6,TBD,  Central  
+1156,12/21/2024,  Customerh156  ,Yoga Mat,Electronics,"10,66,31,80,07,10,49,300",9,Jessica Martinez,East
+1157,Invalid Date,Customer 157,TesLA Model 3,  Clothing  ,177.27,7,Jessica Martinez,Central
+1158,12-07-2023,  Customer 158  ,iPhone 15,Technology,$766.951,2,Kevin Anderson,Central
+1159,04-05-2023,  CuSTomer 159  ,Yoga Mat,Home,169.54,6,-,East
+1160,22-04-2024,Customer 160,  Adidas Ultraboost  ,  Clothrng  ,N/A,3,Sarah Johnson,South
+1161,Invalid Date,Customer 161,Blender Pro,Home,$213.021,5,  David Lee  ,South
+1162,11/24/2023,Customer 162,MacBook Pro,eLEctroniCs,931.53,7,Sarah Johnson,wesT
+1163,Invalid Date,Customer 163,  Nintendo Switch  ,Sports,TBD,7,TBD,North
+1164,13-10-2023,CUsTomEr 164,Levi's Jeans,Technology,#N/A,3,  John Smith  ,  West  
+1164,09-10-2024,Customer 165,PlayStation 5,Electronics,-,1,Emily Brown,South
+1166,20-01-2024,Customer 166,Sony WH-1000XM5,  Home  ,1765.5479176083834 dollars,3,  Amanda Taylor  ,North
+1167,Invalid Date,Customer 167,iPad Air,Technology,683.71,5,-,North
+1168,12-10-2024,Customer 168,Nintendo Switch,  Electronics  ,$675.928,4,John Smmth,  Central  
+1169,26-10-2024,Customer 169,Nike Air May,Sports,1303.2799274703043 dollars,2,Jessica Martinez,EaSt
+1170,12-03-2024,  cuStoMer 170  ,Nike Air Max,Sports,1342.07,2,daVId lee,North
+1171,10-04-2024,Customer 171,Tesla Model 3,Home,TBD,6,  Emily Brown  ,easT
+1172,3/22/2023,customER 172,Fitness Tracker,Electronics,2039.81,3,Missing,North
+1173,Invalid Date,Customer 173,Levi's Jeans,  Home  ,"$1,541.988",10,Lisu Garcia,South
+1174,TBD,  Customer 174  ,Yoga Mat,Technology,1422.08,2,#N/A,Central
+1175,24-07-2024,Customer 175,AirPods Pro,hoME,"7,31,36,00,21,90,25,820",2,Lisa Garcia,East
+1176,TBD,Customer 176,niKe Air max,Electronics,1579.85,8,NULL,  noRtH  
+1177,12-06-2023,Customer 177,Dell XPSz13,SPORts,TBD,10,-,South
+ORD-1178,Invalid Date,  Customer 178  ,AiRpOds pro,Electronics,"6,53,14,17,62,43,10,100",N/A,John Smith,West
+1179,28-10-2024,Customer 179,iPad Air,Clothing,TBD,1,Kevin Anderson,West
+1180,3/26/2023,Customyr 180,Blender Pro,Technology,TBD,1,  kEvIn anDERSon  ,soUth
+1181,2/16/2024,  Customer 181  ,Samsung Galaxy S24,Electronics,95.88,5,  John Smith  ,  South  
+1182,1/30/2023,Customer 182,PlayStation 5,  Technology  ,$225.538,3,-,  South  
+1183,22-10-2024,Customery183,Coffee Maker,tecHnologY,611.68,5,Jessica Martinez,South
+1184,10/20/2023,CustoMEr 184,Fitness Tracker,Home,1971.39,6,miKe daVis,Central
+1185,2/21/2023,Customer 185,Levi's Jeans,Clothing,1469.78,1,John Smith,South
+1186,1/15/2024,Customer 186,Xbox Series X,eLeCtRonicS,NULL,7,Lisa Garcia,North
+1187,01-04-2023,Customer 187,Xbox Series X,Technology,403.18,7,TBD,East
+1188,02-09-2024,Customer 188,MacBook Pro,Cuothing,NULL,9,David Lee,sOuTh
+ORD-1189,7/28/2023,Customer 189,nike Air max,d Electronics  ,1493.43,1,#N/A,  East  
+1190,Invalid Date,  Customer 190  ,Adidas Ultraboost,Electronics,"13,24,73,18,45,03,46,300",5,Chris Wilson,  Central  
+1191,7/29/2023,Customer 191,Samsung Gapaxy S24,Technology,458.9,9,Jessica Martinez,Central
+1192,6/27/2023,Customer 192,  Canon EOS R5  ,Sports,TBD,1,  Sarah Johnson  ,Norrh
+1193,15-04-2023,Customer 193,PlayStation 5,Sports,$606.98,3,N/A,North
+1194,14-09-2023,Customew 194,iPhone 15,Technology,"$1,802.398",4,John Smith,East
+1195,04-03-2024,Customer 195,  Samsung Galaxy S24  ,Electronics,TBD,7,Chris Wilson,wEST
+1196,Invalid Date,Customer 196,  Dell XPS 13  ,Clotming,TBD,N/A,NULL,Sotth
+1197,TBD,Customer 197,Coffee Maker,  Electronics  ,Missing,8,Emily Brown,North
+1198,04-12-2024,Customer 198,Nike Air Max,  tEChnology  ,"$1,535.253",9,mike DaVIs,CentRal
+1199,05-12-2024,custOmeR 199,NikE Air MAx,Technology,89.59,10,N/A,Central
+1200,02-09-2023,Customer 200,Blender Pro,sPOrtS,$874.037,Missing,Kevin Anderson,North
+1201,7/15/2023,  Customer 201  ,niNtenDo Switch,Home,1504.86,5,  Mike Davis  ,WEst
+1202,18-08-2024,Customer 202,  plAystatIon 5  ,Technology,1542.34,6,NULL,noRTh
+1203,30-10-2023,Customer 203,  Nintendo Switch  ,Sports,N/A,5,David Lee,West
+1204,5/27/2024,Customer 204,airPOds pRo,sPortS,#N/A,6,Lisa Garcia,east
+1205,10-12-2023,Customer 205,iPhone 15,  Clothing  ,359.95,3,Chris Wilson,Central
+ORD-1206,25-04-2023,Customer 206,Tesla Model 3,Electronics,NULL,8,Davzd Lee,South
+1207,26-01-2024,Customer 207,MacBook Pro,Electronics,-,10,Sarah Johnson,East
+ORD-1208,14-01-2024,Customer 208,Levi's Jeans,spoRts,TBD,6,Missing,North
+1209,10-02-2023,Customer 209,Canon EOS R5,  hOme  ,1299.61,9,Mike Davis,Central
+1210,TBD,Customer 210,Samsung Galaxy S24,  Home  ,472.34,4,Chris Wilson,North
+1211,6/30/2023,Customer 211,  Canon EOS R5  ,  Electronics  ,231.33,8,Kevin Anderson,West
+1212,06-01-2023,Customer 212,Levi's Jeans,Electronics,N/A,3,john sMith,North
+1213,26-11-2023,Customer 213,Nintendo Switch,Electronics,-,3,#N/A,  East  
+ORD-1214,21-06-2023,  Customer 214  ,  MacBook Pro  ,hOmE,"$1,902.48",4,Jessica Martinez,West
+1215,Invalid Date,Customer 215,  LeVi's jEAns  ,Clothing,#N/A,10,Mike Davis,North
+ORD-1216,11-03-2024,Customer 216,Fitness Tracker,Sports,"$1,853.913",5,-,North
+1217,14-08-2023,Customer 217,Yoga Mat,technolOgy,TBD,10,  David Lee  ,Central
+1218,Invalid Date,Customer 218,PlayStation 5,Sporfs,1274.02,2,Kevin Anderson,East
+1219,15-07-2023,Customer 219,Sony WH-1000XM5,Clothina,#N/A,10,Kevin Anderson,South
+1220,10/13/2024,Customer 220,Nintendo Switch,wome,1385.5439857966826 dollars,6,  MiKE daVis  ,South
+1221,10/26/2023,Customer 221,  samsuNg gALaxy s24  ,Home,583.4951461126025 dollars,1,-,West
+1222,14-11-2024,Customer 222,  Blender Pro  ,  Technology  ,TBD,5,TBD,  East  
+1223,04-06-2023,Customer 223,Xbtx Series X,Sports,856.3296764497738 dollars,10,kevin AnDersOn,West
+1224,09-06-2024,cuStomer 224,  Sony WH-1000XM5  ,elECtRoNICs,327.40442848078305 dollars,7,David Lee,West
+1225,15-02-2023,Customer 225,TesLa modEl 3,Clothing,1128.23,4,Sarah Johnson,East
+1226,24-02-2024,  Customer 226  ,  ipad AIr  ,Spdrts,1358.66,10,TBD,NorTH
+1227,26-02-2023,Custommr 227,  nIntendo sWitCH  ,clOthinG,196.7,5,Emily Brown,Wzst
+1228,7/25/2023,  Customer 228  ,Samsung Galaxy S24,Electronics,$131.264,1,John Smith,wesT
+1229,12/30/2023,Customer 229,  Adidas Ultraboost  ,Teqhnology,Missing,1,Jessica Martinez,East
+1230,29-11-2024,Customer 230,  Canon EOS R5  ,  Technology  ,825.43,7,Missing,West
+1231,TBD,Customer 231,Nike Air Max,Electronacs,1477.19,10,John Smith,gorth
+1232,TBD,Customer 232,iPhone 15,Electronics,TBD,5,  keVIN anderson  ,South
+1233,6/23/2023,  Customer 233  ,  Coffee Maker  ,Sports,$124.893,1,N/A,West
+ORD-1234,4/27/2024,Clstomer 234,  Fitness Tracker  ,  Sports  ,998.44,2,  Lisa Garcia  ,North
+1235,TBD,Customer 235,Fitness Tracker,Home,1375.2085188357485 dollars,NULL,David Lee,WeST
+1236,8/31/2024,Customer 236,Dell XPS 13,Home,1768.12,4,-,Central
+1237,07-07-2023,  CuStomER 237  ,Coffee Maker,  Home  ,"$1,005.377",2,Lisa Garcia,  South  
+1238,11-09-2024,Customer 238,Nike Apr Max,Sports,TBD,5,TBD,South
+ORD-1239,05-06-2024,customER 239,  Canon EOS R5  ,  Home  ,TBD,3,Emily Brown,NorTH
+1240,Invalid Date,Customer 240,Dell XPS 13,Technology,862.11,4,NULL,West
+1241,10/30/2023,Customer 241,Coffee Maker,Electronics,"1,79,95,04,85,40,97,280",7,  John Smith  ,South
+1242,27-10-2023,Customer 242,Nintendo Switch,Electronics,1859.2077244725983 dollars,1,TBD,South
+1243,6/26/2024,Customer 243,PlayStation 5,Clothing,N/A,3,Chris Wilson,  North  
+1244,04-05-2024,  Customer 244  ,Fitness Tracker,ElecTRonICs,TBD,3,TBD,  West  
+1245,TBD,cUstOmeR 245,MacBook Pro,Clothing,"12,53,23,04,11,55,17,700",2,N/A,South
+1246,TBD,Customer 246,Fitness Tracker,Clothing,1432.9480466445634 dollars,7,-,  North  
+1247,01-06-2024,Customer 247,  Surface Pro  ,  hOme  ,N/A,5,Kevin Anderson,WEST
+1248,10-08-2024,cusToMer 248,Adidas Ultraboost,Clothing,NULL,6,Jessica Martinez,kast
+1249,31-07-2024,Customer 249,Blender Pro,Home,1092.640261926042 dollars,7,Lisa Garcia,West
+1249,07-02-2024,Customer 250,Nike Air nax,Technology,1261.5309709973717 dollars,10,  John Smith  ,West
+1251,04-01-2023,Customer 251,Xbox Series X,SpoRTs,339.8668498863419 dollars,9,N/A,  Central  
+1252,Invalid Date,Customer 252,nInTEndo SwITch,Electronics,588.32,5,  David Lee  ,North
+1253,05-02-2023,Customer 253,Xbox Series X,  Electronics  ,$182.058,7,Amanda Taylor,  South  
+1254,10/14/2024,Customer 254,iPhoge 15,Home,1166.62,2,Sarah Johnson,West
+1255,5/20/2024,cuStoMer 255,Blender pro,Technology,-,1,Jessica Martinez,South
+1256,8/26/2023,Customer 256,PlayStation 5,  Sports  ,N/A,6,  Kevin Anderson  ,  South  
+1257,Invalid Date,CuSToMeR 257,Samsung Galaxy S24,Home,1453.29,10,  David Lee  ,South
+1258,1/26/2024,Customer 258,ipad Air,Electronics,719.38,7,TBD,korth
+1259,Invalid Date,Customer 259,  Fitness Tracker  ,hoMe,1044.4409944814893 dollars,5,Mike Davis,East
+1260,5/31/2024,Customer 260,Adidas Ultraboost,Home,453.1608703202396 dollars,9,Jessica Martinez,  South  
+1261,08-11-2024,Customer 261,TESla MoDel 3,homE,-,6,John Smith,  wEst  
+1262,27-06-2024,Customer 262,  Surface Pro  ,Home,871.08,7,Kevin Anderson,South
+1262,11-05-2024,cusTomeR 263,  Blender Pro  ,spORts,470.06,5,Kevin Anderson,South
+1264,06-12-2024,Customer 264,Fitness Tracker,Home,2005.25,1,Missing, jWest  
+1265,16-09-2023,CUstomer 265,niKe Air maX,  Technology  ,1328.7051328153045 dollars,4,NULL,East
+1266,11-06-2024,  Customer 266  ,Levi's Jeans,Clothing,#N/A,9,John Smith,West
+1267,31-10-2023,Customer 267,Surface Pro,  Home  ,352.51,3,  Lisa Garcia  ,South
+1268,06-12-2023,customer 268,  AirPods Pro  ,Homk,-,2,lisa GARCia,  Central  
+1269,Invalid Date,Customer 269,AirPods Pro,spoRTS,N/A,9,Amanda Taylor,  East  
+1270,6/15/2024,Customer 270,Yoga Mat,Clothing,1809.42,3,Sarah Johnson,South
+1271,09-10-2023,Customer 271,Coffee makeR,Home,793.2,4,jEssiCa martInez,Centrel
+1272,18-02-2023,Customer 272,MacBook Pro,Sports,205.18386364540214 dollars,6,  David Lee  ,North
+1273,05-04-2024,Customer 273,Nike Air Max,Electrowics,N/A,5,NULL,East
+1274,03-05-2023,Customer 274,  Yoga Mat  ,Home,893.01,10,Missing,North
+1275,26-12-2024,  CusTOmer 275  ,Sony WH-1000XM5,Sports,TBD,8,Lisa Garciq,East
+1276,09-10-2023,Customer 276,Blender Pro,Clothing,916.95,8,NULL,South
+1276,02-04-2024,  Customer 277  ,  Tesla Model 3  ,Sports,NULL,5,NULL,East
+1278,12-11-2023,Customer 278,Canon EOS R5,technOLoGy,825.69,3,NULL,East
+1278,10/20/2024,  cuStomer 279  ,  iPAd air  ,Technology,776.69,6,Sarah Johnson,East
+ORD-1280,Invalid Date,Customer 280,Yoga Mat,Spohts,1124.58,10,N/A,South
+1281,09-08-2023,CusTomeR 281,nIKe aIr max,Technology,#N/A,10,CHrIs wILsON,West
+1282,01-02-2023,  Customer 282  ,  Dell XPS 13  ,eLectronics,TBD,5,AMaNdA tayloR,WEST
+1283,23-12-2023,Customer 283,nInteNdO sWiTCh,Home,#N/A,9,Missing,Central
+1284,06-05-2024,Customer 284,Nintendo Switch,Home,#N/A,NULL,NULL,East
+ORD-1285,03-09-2024,Customer 285,BlenDer PrO,Clothing,TBD,10,Jessica Martinez,noRth
+1286,07-08-2024,Customer 286,iPhone 15,Sports,-,10,Kevin Anderson,West
+1287,1/17/2023,Customer 287,Tesla Model 3,  Clothing  ,"14,79,16,02,74,68,88,300",5,Missing,  West  
+1288,15-01-2024,cUstomeR 288,Cwnon EOS R5,Clothing,958.26,4,Chris Wilson,North
+1289,8/30/2023,Customer 289,Tesla Model 3,Clothing,231.91941086904896 dollars,3,  cevin Anderson  ,  west  
+1290,30-12-2024,Customer 290,Coffee Maker,Sporhs,-,7,David Lee,Nortm
+1291,04-05-2023,Customer 291,LEVI'S jeAns,  Technology  ,900.97,9,  Sarah Johnson  ,cenTral
+1292,12/28/2023,  Customer 292  ,Nike Air Max,Sports,1586.39,3,  Jessica Martinez  ,East
+1293,29-12-2024,Customer 293,Surface Pro,Clothing,1852.98,9,Chris Wilson,West
+1294,17-04-2023,iustomer 294,Fitneds Tracker,Home,2016.9,6,David Lee,East
+1295,23-08-2024,CUsTomEr 295,iPad Air,Home,1859.37,3,Kevin Anderson,  Central  
+1296,03-05-2024,cuSTomeR 296,Xbox Series X,  Technology  ,2001.71,7,  Mike Davis  ,easT
+1297,11/15/2023,custOmer 297,  iPad Airp ,hOmE,$120.678,9,LIsa Garcia,  East  
+1298,7/24/2023,  cusToMer 298  ,hurface Pro,Sports,773.94,4,cHris wilsOn,South
+1299,03-08-2023,Custemer 299,Nintkndo Switch,Home,536.89,3,Chris Wilson,South
+1300,13-09-2024,Customer 300,  Fitness Tracker  ,cloThinG,292.64,7,  John Smith  ,  North  
+1301,Invalid Date,Customer 301,  Tesla Moqel 3  ,  Sports  ,TBD,5,N/A,Centzal
+1302,3/14/2024,Customer 302,Levi's Jeans,Electronics,632.09,8,Kevin Anderson,West
+1303,07-03-2024,Customer 303,PlayStation 5,Technology,1224.37,7,Amanda Taylor,South
+ORD-1304,15-06-2023,Customer 304,AirPods Pro,Electronics,"$1,456.039",4,NULL,North
+1305,09-04-2024,Customer 305,Adidas Ultraboost,Clothing,483.09,6,Jessica Martinez,Wbst
+ORD-1306,1/31/2024,  Customer 306  ,  Samsung Galaxy S24  ,Technology,TBD,1,ChrIs wilsoN,east
+ORD-1307,Invalid Date,Customer 307,Adidas Ultraboost,Technology,N/A,N/A,#N/A,West
+1308,29-05-2024,  CustOMer 308  ,  Xbox Series X  ,Home,463.6722215650064 dollars,4,Amanda Taylor,West
+1309,8/23/2023,Customer 309,iPhone 15,Home,N/A,1,Jessica Martinez,South
+1310,02-11-2023,  Customer 310  ,AirPods Pro,Clothing,#N/A,9,N/A,South
+1311,14-01-2024,CuStoMER 311,Surface Pro,  Electronics  ,NULL,4,Kevin Anderson,East
+1312,2/16/2023,  Customer 312  ,aIRpOds pRo,Technology,647.5,2,NULL,cenTRAl
+1313,06-10-2024,  Customer 313  ,Sony WH-1000XM5,plectronics,269.34,6,  Lisa Garcia  ,West
+1314,06-04-2024,CusTomER 314,blenDEr pro,  Technollgy  ,"$1,612.938",2,Amanda Taylor,North
+1315,09-01-2023,Customer 315,  PlayStation 5  ,  Electronics  ,1459.52,3,Mike Davis,North
+1316,6/25/2023,Customer 316,Adidas Ultraboost,home,Missing,8,  Emily Brown  ,centraL
+ORD-1317,02-03-2023,customeR 317,Tesla Model 3,Home,1455.72,4,daviD lEe,West
+1318,24-06-2023,Customer 318,Yoga Mat,Clothing,Missing,7,John Smith,West
+1319,30-11-2023,  Customer 319  ,Canon EOS R5,  Technology  ,$542.071,5,N/A,  Sodth  
+1320,06-06-2023,Customer 320,  MacBook Pro  ,Home,147.79,10,Chris Wilson,Nolth
+1321,3/19/2023,Customer 321,Dell XPS 13,Sports,950.84,5,Jessica Martinez,  west  
+1322,3/21/2023,cusToMeR 322,  fitnEss TRACker  ,Clothing,#N/A,9,SaraH johnsOn,  Central  
+1323,10-02-2024,  Customer 323  ,Sony WH-1000XM5,Clothing,904.5265156028134 dollars,10,sARaH joHnsOn,centRal
+1324,Invalid Date,Customer 324,MacBook Pro,Sports,1271.18,5,Mike Davis,SoutH
+1325,07-07-2024,Customer 325,MacBook Pro,Technology,$357.537,3,Jessica Martinez,Central
+1326,Invalid Date,  Customer 326  ,Canon EOS R5,Electronics,68.15,10,Jessica Martinez,  West  
+1327,01-04-2023,  cUstomeR 327  ,Canon EOS R5,  Technology  ,1257.69,9,Emfly Brown,  CeNtRal  
+1328,5/17/2024,Custimer 328,Sony WH-1000XM5,Home,$210.369,5,David Lee,Centraj
+1329,11/23/2024,Customer 329,Adidas Ultraboost,  Home  ,1258.27,2,  Lisa Garcia  ,SoutH
+1330,TBD,CUsTomeR 330,Canon EOS R5,Electronics,$574.776,5,Lisa Gazcia,  West  
+1331,7/23/2024,Customer 331,  MacBook Pro  ,Clothing,$501.213,10,  sARAH JOhnsOn  ,West
+1332,01-06-2023,  Customer 332  ,  Nike Air Max  ,Sports,1087.08,1,Emily Brown,South
+1333,02-05-2023,Customer 333,  AirPods Pro  ,Sports,348.44,3,Mike Davis,East
+1334,7/28/2023,cuStomeR 334,adIdas ulTrAboost,Technology,693.49,1,John Smith,West
+ORD-1335,16-08-2024,  cUstomER 335  ,Xbox Series X,Technology,852.97,Missing,Sarah Johnson,easT
+1336,4/29/2023,oustomer 336,Blender Pro,Technology,#N/A,5,Amanda Taylor,  soutH  
+1337,18-02-2024,Customer 337,ipHone 15,Home,NULL,10,N/A,Central
+1338,2/28/2023,  Customer 338  ,Fitness Tracker,Technology,Missing,6,Chris Wilson,North
+1339,29-07-2024,  Customer 339  ,Dell XPS 13,Sposts,TBD,4,Sarah Johnson,Wqst
+1340,Invalid Date,  Customer 340  ,MacBook Pro,Clothing,326.73,5,  Jessica Martinez  ,Central
+1341,Invalid Date,Customer 341,Samsung Galaxy S24,nome,784.2764762526832 dollars,5,Amanda Taylor,Central
+1342,17-08-2023,Customer 342,nINTendo switch,eLEctronics,1148.2947131908732 dollars,2,David Lee,East
+1343,12/13/2023,Customer 343,Fitness Tracker,Sports,$640.639,5,  chrIS wilson  ,West
+1344,Invalid Date,Customer 344,Tesla Model 3,Sports,582.04,9,Jessica Martinez,nOrTh
+ORD-1345,02-10-2024,Customer 345,Dell XPS 13,cLOThINg,-,4,Emily Brown,Central
+1346,19-05-2024,Customer 346,  bLendEr pro  ,Clothing,NULL,4,N/A,West
+1347,11/16/2024,Customer 347,  TeSlA moDEl 3  ,Sports,568.8,10,TBD,Central
+1348,06-04-2023,Customer 348,suRface pRo,Clothing,1099.84,7,amanda TAyloR,North
+1349,11/30/2024,  Customer 349  ,Yoga Mat,Electronics,"13,32,50,79,56,23,50,500",7,  David Lee  ,  North  
+1350,6/29/2024,Customer 350,bLEnder pro,  Home  ,TBD,10,NULL,Soudh
+ORD-1351,9/14/2024,Customer 351,AirPods Pro,Technology,970.6,8,Kevin Anderson,Norta
+ORD-1351,19-10-2023,  Customer 352  ,PlayStation 5,  Electronics  ,691.51,9,N/A,East
+1353,3/27/2024,  Customer 353  ,cOFFEE makEr,Electronics,1484.94,2,  David Lee  ,North
+ORD-1354,29-04-2024,Customer 354,CoffEe Maker,HOMe,178.69,9,  Kevin Anderson  ,North
+1355,12/24/2023,Customer 355,Adidas Ultraboost,cLOthing,TBD,7,Amanda Taylor,North
+ORD-1356,2/20/2023,Customer 356,  Dell XPS 13  ,  cLothinG  ,1210.64,6,Emily Brown,  Central  
+1357,20-12-2024,dustomer 357,Coffee Maker,Sports,1981.6967323904794 dollars,9,-,North
+1358,09-12-2023,  Customer 358  ,  Sony WH-1000XM5  ,Clothing,Missing,2,Chris Wilson,Central
+1359,19-11-2024,  Customer 359r ,  MacBook Pro  ,sPORts,$835.155,2,#N/A,North
+1360,5/19/2024,Customer 360,yOga MAT,Homy,1184.85,2,Chris Wilson,South
+1361,2/15/2024,Customer 361,bLenDer pRo,Home,94.63017553850568 dollars,1,TBD,South
+1362,26-07-2023,CuStomer 362,tesLa MODel 3,Home,TBD,7,  Emily Brown  ,  Central  
+1363,29-09-2024,cuStomeR 363,  iPhone 15  ,Technology,TBD,7,NULL,South
+1364,3/16/2024,  Customer 364  ,iPad Air,Technology,690.44,5,Amanda Taylor,West
+1365,20-11-2023,  CuStomEr 365  ,AirPods Pro,Technology,TBD,1,TBD,West
+ORD-1366,5/31/2023,  Customer 366  ,TeSLA mODEl 3,Electronics,1096.71,7,Amanda Taylor,Central
+ORD-1367,10-08-2023,  Customer 367  ,Nike Air Max,Technology,276.35,10,Chris Wilson,Central
+1368,5/18/2024,Customer 368,AirPods Pro,Home,Missing,3,David Lee,  eASt  
+1369,15-08-2024,  Customer 369  ,Blender Pro,elEctrONicS,$332.422,5,-,oorth
+1369,Invalid Date,Customer 370,Nike Air Max,Electronics,192.69,4,Amanda Taylor,North
+1371,Invalid Date,  Customer 371  ,Dell XPS 13,Technology,"1,13,87,42,14,63,44,520",2,David Lee,  west  
+1372,TBD,Custwmer 372,iPhone 15,Clothing,"5,49,55,63,48,34,89,250",7,John Smith,Wpst
+1373,12/18/2024,  Customer 373  ,  Nike Air Max  ,TeChNology,1481.93,1,  Mike Davis  ,SOutH
+1374,07-08-2024,customEr 374,Tesla Model 3,  Technology  ,TBD,1,Lisa Garcia,SoUTh
+1375,6/19/2023,Customer 375,  MacBook Pro  ,Clothing,1694.63,2,TBD,West
+1375,3/19/2023,Customer 376,AirPods Pgo,  Electronics  ,1298.1617336922952 dollars,3,John Smith,West
+1377,TBD,Customer 377,Fitness Tracker,Clothing,"19,87,35,46,55,19,73,200",3,#N/A,Central
+1378,10-06-2023,Customer 37i,MacBook Pro,Electronics,1372.88,6,-,Central
+1379,8/17/2023,Customzr 379,MacBook Pro,  Home  ,76,10,Jessica Martinez,central
+ORD-1380,2/22/2023,Cugtomer 380,Levi's Jeans,Clothing,NULL,6,Mike Davis,East
+1381,3/21/2023,uustomer 381,MacBook Pro,  eleCTRoNiCs  ,N/A,7,Missing,  East  
+1382,06-07-2023,  Customer 382  ,Coffee Maker,clothinG,Missing,6,  Emily Brown  ,East
+1383,03-11-2023,  Customer 383  ,Samsung Galaxy S24,  Clothing  ,"8,36,25,74,86,00,60,510",8,dAvid lee,Eavt
+1384,07-12-2023,Customer 384,Samsung Galaxy S24,Clothing,485.6192765901155 dollars,2,Chris Wilson,East
+1385,01-06-2023,Customer 385,iPhone 15,Electronics,"$1,180.035",1,Missing,West
+1386,10-01-2023,Customer 386,Tesla Model 3,Trchnology,1266.73,7,  Sarah Johnson  ,South
+1387,15-06-2024,Customer 387,Yoga Mat,Home,726.63,10,Amanda Taylor,West
+1388,Invalid Date,cUsTomer 388,Sony WH-1000XM5,Sports,NULL,7,Mmke Davis,south
+ORD-1389,25-10-2024,  Customer 389  ,  xbox SERIEs X  ,Electronics,943.54,1,Chris Wilson,SOUTh
+1390,08-11-2024,Customer 390,Adidas Ultraboost,Technology,1882.59,4,  LisA gARCia  ,West
+1391,04-10-2023,Customer 391,Fitness Tracker,Sports,$657.392,1,Jessica Martinez,Central
+1392,6/25/2023,Customer 392,  IpHoNE 15  ,Clothing,$410.905,6,Emily Brown,West
+1393,11-06-2023,Customer 393,  Adidas Ultraboost  ,Sports,Missing,9,Chris Wilson,f East  
+ORD-1394,12-04-2024,Customer 394,  Levi's Jeans  ,Clothing,TBD,7,Missing,  Central  
+1395,19-09-2023,customeR 395,Yoga Mat,Home,1682.86,2,chris wilsoN,  East  
+1396,Invalid Date,  Customer 396  ,Tesla Model 3,clotHINg,689.84,1,  John Smith  ,  sOuth  
+1397,12/28/2024,Customer 397,Yoga Mat,Home,846.23,2,miKE DaVIs,North
+1398,9/13/2023,Cushomer 398,Samsung GalaxyoS24,Sports,NULL,6,TBD,North
+1399,04-11-2024,Customer 399,Yoga Mat,Technology,Missing,10,N/A,  North  
+1400,25-09-2023,Customer 400,Canon EOS R5,Technology,484.52,6,#N/A,  East  
+1401,25-04-2023,Customer 401,Coffee Maker,Clothing,-,4,  Sarah Johnson  ,  Central  
+1402,Invalid Date,  Customer 402  ,Dell XPS 13,Home,1047.7702399656896 dollars,2,NULL,Central
+1403,04-08-2024,  Customer 403  ,Blender Pro,  Electronics  ,1583.24,4,Lisa Garcia,East
+1404,10-02-2024,Customer 404,SoNY wH-1000xM5,Home,Missing,4,Mike Davis,East
+ORD-1405,01-11-2023,Customer 405,AirPods Pro,Clothing,203.09,4,John Smith,South
+1406,15-04-2024,Customhr 406,Levi's Jeans,Clothing,$392.08,9,John Smidh,soutH
+1407,11/20/2024,Customer 407,  Yoga Mat  ,  Technology  ,1434.84,7,NULL,North
+1408,12/25/2024,  cUstoMer 408  ,  iPad Air  ,Home,$202.763,2,Mike Davis,North
+1409,22-12-2023,Customer 409,  CoffeerMaker  ,Clothing,1811.67,7,Emily Brown,East
+1410,05-03-2023,Customer 410,MacBook Pro,Electronics,407.28,10,-,Central
+1410,3/14/2023,Customer 411,Levi's jeanS,Sports,TBD,Missing,#N/A,West
+1412,10/24/2023,  cuStoMer 412  ,PlayStation 5,Technology,673.16,10,TBD,North
+1413,9/26/2024,Customer 413,Yoga Mat,  Home  ,961.94,2,Amanda Taylor,  North y
+1414,21-10-2024,cusTomer 414,iPhone 15,  Sports  ,177.48,1,David Lee,North
+1415,Invalid Date,Customer 415,Fitness Tracker,clOtHIng,"$1,474.929",5,  Kevin Anderson  ,South
+ORD-1416,12-08-2023,  Customer 416  ,Sony WH-1000XM5,Sports,1159.3,8,DaviD lEE,East
+1417,20-08-2023,Customer 417,  Blender Pro  ,  HomE  ,"1,57,74,88,69,40,46,110",4,NULL,North
+1418,9/18/2024,Customer 41o,xBox sEries X,Home,1763.8065323340325 dollars,6,  Lisa xarcia  ,Easv
+1419,7/22/2024,Custoyer 419,MacBook Pro,Sports,306.28,6,N/A,South
+1420,21-07-2024,Customer 420,  Dell XPS 13  ,tEchNolOgY,957.02,6,  Sarah Johnson  ,North
+1421,11-03-2023,Customer 421,idhone 15,  Clothing  ,Missing,9,Missing,North
+1422,5/13/2023,CUStOmer 422,Fitness Tracker,Electronics,Missing,10,uavid Lee,Central
+1423,26-06-2023,Customer 423,Adidas Ultraboost,Electronics,TBD,6,Kevin Anderson,  West  
+1424,02-06-2024,Customer 424,suRface pro,Clothing,81.33,7,Missing,East
+1425,27-10-2023,Customer 425,  Dell XPS 13  ,Electronics,Missing,4,Missing,North
+1426,2/27/2024,Customer 426,Fitness Tracker,Clothing,N/A,2,Mike Davis,East
+ORD-1427,7/15/2024,Customer 427,Tesla Model 3,  Clothing  ,384.81,4,lISa garCia,NorTh
+ORD-1427,09-05-2024,Customer 428,Dell XPS 13,Electronics,"$1,160.578",1,Mike Davis,  Central  
+1429,Invalid Date,cUsTomER 429,  Surface Pro  ,Technology,NULL,10,Daaid Lee,Central
+1430,Invalid Date,Customer 430,  Playktation 5  ,Clothing,"16,93,75,76,48,58,07,600",2,  Kevin Anderson  ,East
+1431,3/22/2024,Customer 431,  Nike Air Max  ,sports,"$1,648.309",1,Kevin Anderson,South
+1432,01-01-2024,customEr 432,nINTeNdO swItCh,  Sports  ,1178.45,2,Mike Davis,Central
+1433,Invalid Date,  CuStoMEr 433  ,Canon EOS R5,Home,1205.85,4,David Lee,South
+1434,08-11-2024,Customer 434,  Canon EOS R5  ,  Technology  ,"$1,811.899",10,Mike Davis,North
+ORD-1435,TBD,Customer 435,Canon EOS R5,ElectroniCs,304.15,3,#N/A,South
+1436,9/13/2024,Customer 436,pLaYSTatioN 5,Sports,$753.459,10,-,West
+1436,13-06-2024,Customer 437,Samsung Galaxy S24,Clothing,"$1,971.771",8,  Sarah Johnson  ,North
+1438,27-02-2023,cuStoMeR 438,Yoga Mat,Sports,N/A,2,Chris Wilson,centRaL
+1439,09-01-2023,  Customer 439  ,Samsung Galaxy S24,Home,751.28,3,John Smith,South
+ORD-1440,13-12-2023,  Customer 440  ,FitNEss TRAcKeR,Clothing,327.8,6,N/A,South
+1441,11-01-2023,Customer 441,Nintendo Switch,Technology,TBD,4,Emily Brown,East
+1442,20-10-2023,Customer 442,sURface prO,homE,121.04,NULL,Emily Brown,noRth
+1443,04-12-2023,CustOMer 443,Samsung Galaxy S24,Clothing,N/A,7,David Lee,EaST
+1444,01-07-2024,  Customer 444  ,Blender Pro,Clothing,1832.08,10,Amanda Taylor,WesT
+1445,02-01-2023,  Customer 445  ,iphOne 15,tEchnOlogy,819.54,5,David Lee,EaST
+1446,9/20/2023,Customer 446,iPad Air,ElEcTronics,1211.88,1,-,cenTral
+1447,2/27/2023,  CuSTomEr 447  ,Nike Air Max,Technology,NULL,4,  Amanda Taylor  ,  North  
+1448,27-05-2024,Customer 448,iPad Air,elEctroNics,583.96,10,Jessica Martanez,Central
+1449,Invalid Date,  customEr 449  ,Canon EOS R5,Electronics,875.5,1,Amanda Taylor,North
+1450,10/21/2024,Customer 4s0,Fitness Tracker,Home,1641.34,7,Lasa Garcia,  South  
+1451,09-02-2024,Customer 451,  Adidas Ultraboost  ,  Clothing  ,TBD,4,Jessica Martinez,South
+1452,25-11-2023,Customer 452,MacBook Pro,Technolosy,#N/A,7,lIsa gaRcIa,  Central  
+1453,TBD,cUStomer 453,AirPods Pro,Home,1985.06,4,Amanda Taylor,South
+1454,10/21/2023,  Customer 454  ,MacBook Pro,  Technology  ,187.56,1,#N/A,West
+1455,7/13/2024,  Customer 455  ,Levi's Jewns,Home,"$1,427.701",7,Missing,  East  
+1456,24-10-2023,  Customer 456  ,Surface Pro,Sports,TBD,10,NULL,easT
+1457,6/18/2024,  Customer 457  ,Nike Air Max,  home  ,#N/A,10,John Smith,Central
+1457,Invalid Date,  Customer 458  ,Adidas Ultraboost,Electronics,1290.49,7,Jessica Martinez,North
+1459,Invalid Date,  customEr 459  ,sevi's Jeans,Electronics,135.28,6,John Smith,North
+1460,20-12-2024,  cUSTOMer 460  ,  Levi's Jeans  ,  Home b,944.58,7,David Lee,North
+ORD-1461,12-06-2024,  Customer 461  ,  MacBook Pro  ,spOrts,#N/A,5,Emily Browg,West
+ORD-1461,05-05-2024,  Customer 462  ,PlayStation 5,Home,"19,39,18,02,98,54,56,000",3,  Emily Brown  ,norTH
+1463,10-11-2024,  Customer 463  ,Coffee Maker,Clothing,359.44,2,Amanda Taylor,NoRTh
+1464,13-10-2023,Customer 464,MacBook Pro,Clothing,1744.59,5,  Jessica Martinez  ,  Central  
+1465,05-06-2024,  Customer 465  ,MacBook Pro,Home,#N/A,5,TBD,North
+1466,12-03-2024,Customer 466,samsUNg GAlaxY s24,Sports,956.02,3,mike dAvis,East
+1467,9/28/2023,Customer 467,Adidas Ultraboost,home,TBD,8,  Emily Brown  ,South
+1468,22-11-2023,Customer 468,  iPad Air  ,  Clothing  ,TBD,7,N/A,  Central  
+1469,04-01-2024,Customer 469,iPhone 15,  Clothing  ,586.2829769724502 dollars,5,Amanda Taylor,Wsst
+1470,31-08-2023,cUstomer 470,iPhone 15,  Sports  ,$841.909,NULL,Jessica Martinez,Central
+1471,24-09-2023,  Customer 471  ,Nintendo Switch,Sports,TBD,6,John Smith,eaSt
+1472,17-02-2024,Customer 472,  soNy wH-1000xm5  ,Clothing,$243.754,4,TBD,South
+1473,1/20/2023,Customer 473,Xbox Series X,Technology,Missing,8,TBD,  South  
+1474,19-06-2024,Customer 474,iPhone 15,Sports,"13,96,60,97,42,26,68,900",7,Lisa Garcia,East
+1475,8/13/2024,  Customer 475  ,Xbox Series X,Electronics,Missing,10,N/A,East
+1476,03-01-2023,Customer 476,Samsung Galaxy S24,Sports,648.53,1,Amanda Taylor,East
+1477,24-06-2024,Cestomer 477,Coffee Maker,Clothing,1040.9142723877203 dollars,10,Emily Brown,South
+1478,2/23/2023,Customer 478,Nike Air Max,  Clothing  ,"5,23,08,52,02,24,70,610",8,NULL,East
+1479,11/20/2024,  Customer 479  ,Dell XPS 13,Sports,1059.28,1,Missing,West
+ORD-1480,19-07-2023,  Customer 480  ,  Coffee Maker  ,Electronics,240.8960859423905 dollars,1,N/A,West
+1481,18-10-2024,Customer 481,PlayStation 5,home,1494.61,5,-,South
+1482,28-09-2024,custOMEr 482,Sony WH-1000XM5,  Technology  ,1123.469140154791 dollars,6,Chris Wilson,  Central  
+1483,24-08-2023,Customer 483,Yoga Mat,yome,"$1,335.41",8,Chris Wilson,noRTh
+1484,27-04-2023,Customer 484,Adidas Ultraboost,Home,TBD,8,  Amanda Taylor  ,  nOrtH  
+1485,26-10-2023,cusTOmer 485,Yoga Mat,Clothing,TBD,3,Missing,  South  
+1486,09-08-2024,Customer 486,Levi's Jeans,Clothing,1793.01,3,NULL,Esst
+1487,20-03-2023,Customer 487,iPAd AIR,tEchnOloGy,1502.6568914841687 dollars,9,Jessica Martinez,  South  
+1488,10/25/2023,Customer 488,iPhone 15,  Electronics  ,1212.55,5,NULL,East
+1489,TBD,Customer 489,AirPods Pro,Sports,454.71,1,cHriS wilSOn,k Central  
+1490,25-11-2024,Customer 490,Xbox Series X,Home,TBD,2,Kevin Anderson,north
+1491,09-12-2024,  CUsTomer 491  ,Levi's Jeans,Sports,319.44,4,  Mike Davis  ,Easx
+1492,01-09-2024,  Customer 492  ,Fitness Tracker,HomE,"$1,324.64",3,-,East
+ORD-1493,5/20/2024,custOmer 493,AirPods Pro,Sports,126.8,10,  Mike Davis  ,South
+ORD-1494,TBD,Customer 494,Surface Pro,Technflogy,1557.3331529174477 dollars,3,Emily Brown,East
+1495,09-03-2023,Customer 495,  Dell XPS 13  ,Sports,$238.439,8,jeSsIca MaRtINez,  wesT  
+1496,5/24/2023,cuStomeR 496,Levi's ceans,  Technology  ,NULL,5,Amanda Taylor,Central
+1497,11-08-2024,Customer 497,Nike Air Max,SpoRtS,1680.03,2,-,  Central  
+1498,24-10-2023,  cusTOmer 498  ,Fitnesf Tracker,  Clothing  ,1025.66,10,NULL,South
+1499,18-08-2024,Customer 499,Samsung Galaxy S24,Clothing,#N/A,1,Amanda Taylor,East
+1500,6/18/2023,  Customer 500  ,SurFAce pro,Electronics,$924.634,10,  Amanda Taylor  ,East
+1501,Invalid Date,Customer 501,  surface PRo  ,Home,$91.776,9,NULL,  Central  
+1502,11-08-2024,Customer 502,  Canon EOS R5  ,  Technology  ,-,7,Sarah Johnson,SoUTh
+1503,20-10-2023,  Customer 503  ,Canon EOS R5,TecHnolOGy,920.81,8,Lisa Garcia,South
+1504,Invalid Date,Customer 504,Nintendo Switch,Electronics,1450.58,3,sarah JOhNSOn,EAst
+1505,08-04-2024,Custpmer 505,Tesla MOdeL 3,Sports,408.08,5,-,North
+1506,15-10-2023,cUStomEr 506,iPhoneg15,Clothing,"6,61,18,30,36,24,59,080",9,David Lee,North
+1507,26-04-2024,  Customer 507  ,Levi's Jeans,spoRts,#N/A,6,David Lee,  North  
+1508,21-01-2023,  Customer 508  ,  Surface Pro  ,sPortS,NULL,9,Chris Wilson,  North  
+1509,07-04-2023,  Customer 509  ,AirPods Pro,Technology,970.94,7,Lisa Garcia,Cextral
+1510,13-02-2023,Customer 510,canon eOs r5,Home,2007.92,2,N/A,  East  
+1511,4/20/2023,Customer 511,Levi's Jeans,  SpORtS  ,906.32,5,N/A,  West  
+ORD-1512,Invalid Date,Customer 512,Samsung Galaxy S24,Home,Missing,6,Sarah Johnson,Central
+1513,19-09-2024,Customer 513,  Yoga Mat  ,Sports,-,5,Emily Brown,North
+1514,TBD,  Customer 514  ,iPad AiR,Electronics,623.69,8,John Smith,East
+1515,07-01-2023,Customer 515,Swrface Pro,Sporks,487.53,9,  chriS wilSON  ,West
+1516,10-03-2024,  Customer 516  ,PlayStation f,Home,1149.83,6,Lisa Garcia,iast
+1517,4/28/2024,Customer 517,Tesla Model 3,Technology,945.62,2,emilY BRoWn,  East  
+1518,3/24/2023,  Customer p18  ,  IpAd aIr  ,cLOThing,TBD,1,John Smith,South
+1519,02-07-2024,CustOmer 519,Levi's Jeans,Electronics,TBD,9,Amanda Taylor,East
+1520,10-07-2024,Customer 520,Nintendo Switch,Home,$266.191,2,Chris Wilson,South
+1521,26-01-2024,Customer 521,Blender Pro,  Electronics  ,579.65,6,David Lee,North
+1522,04-08-2024,cUsTOmEr 522,Fitness Tracker,Technology,1403.57,3,N/A,Etst
+ORD-1523,9/21/2024,Customer 523,  Sony WH-1000XM5  ,Home,320.12,10,mike dAVIS,  noRth  
+1524,TBD,cuSTOmeR 524,Fitness Tracker,Clothing,#N/A,1,David Lee,Central
+1525,30-12-2024,  Customer 525  ,Xbox Series X,Sports,"$1,115.673",3,John Smito,Central
+1526,9/30/2024,  Custoaer 526  ,Samsung Galaxy S24,Electronics,TBD,4,lisA GArcia,South
+1527,TBD,Customer 527,Sony WH-1000XM5,Sports,609.69,7,  Mike Davis  ,NorTH
+1528,07-11-2024,Customer 528,  Surface Pro  ,sporTs,1461.44,5,Sarjh Johnson,eAst
+1529,22-10-2023,Customer 529,iPhone 15,Clothing,1575.6,2,  David Lse  ,East
+ORD-1530,22-04-2023,Customer 530,  nIke AiR max  ,Electronics,1720.378097498786 dollars,5,Chris Wilson,Central
+ORD-1531,25-01-2023,  Customer 531  ,Yoga Mat,Electronics,295.6,2,Jessiaa Martinez,North
+1532,29-04-2024,Customer 532,iPad Air,Technology,308.41857704816994 dollars,6,TBD,Central
+1533,24-10-2023,  Customer 533  ,Blender Pro,Technology,1044.45,9,  Emily Brown  ,West
+1534,19-11-2023,Customer 534,Surface Pro,Clothing,N/A,7,Mike Davis,North
+1535,TBD,customEr 535,Dell XPS 13,Electronics,#N/A,7,Chris Wilson,South
+1536,TBD,Customer 536,Yoga Mat,Home,-,7,Kedin Anderson,Weot
+1537,Invalid Date,  Customer 537  ,airpoDS prO,  Electronics  ,806.75,5,-,East
+1538,TBD,Customer 538,Yvga Mat,Clothing,-,1,Mike Davis,South
+1539,TBD,  Customer 539  ,Canon EOS R5,Sports,"9,27,37,22,45,56,69,880",5,TBD,Central
+1540,04-08-2023,  Customer 540  ,  adidas UltRABoOSt  ,Electronics,N/A,4,john SmitH,North
+1541,Invalid Date,Customer 541,Sony WH-1000XM5,Electronics,"$1,285.918",3,  Mike Davis  ,East
+1542,02-08-2023,  Customer 542  ,Canon EOS R5,Clothing,TBD,3,Kevin Anderson,t Central  
+1543,4/21/2023,Customer 543,Tesla Model 3,Sports,TBD,3,N/A,sOuTH
+1544,04-07-2023,Customer 544,Coffee Maker,  Technology  ,"50,57,11,30,68,01,43,000",9,  Mike Davis  ,Wist
+1545,04-04-2023,Customer 545,Dell XPS 13,Home,NULL,6,Amande Taylor,  West  
+1546,Invalid Date,  Customer 546  ,  NiNTEndo swItch  ,Sports,1061.56,3,N/A,soutH
+1547,1/18/2024,Customer 54s,xBox SEries X,Sports,TBD,5,jessica maRtInEZ,wesT
+1548,3/23/2023,cUstomER 548,Yoga Mat,  eleCtrOnics  ,537.39,8,jessIca MarTINEz,Central
+1549,10-08-2023,  cUstOmer 549  ,MacBook Pro,Clothing,1994.82,10,N/A,Central
+1550,10-01-2024,Customer 550,  Surface Pro  ,Electronics,-,6,Lisa Garcia,South
+1551,TBD,  Customer 551  ,Fitness Tracker,Clothing,"$1,548.212",5,Jessica Martinez,West
+1552,08-03-2024,Customez 552,MacBook Pro,Home,"19,86,33,85,38,30,51,300",8,-,East
+1553,6/17/2024,Customer 553,Dell XPS 13,Sports,"19,93,62,64,37,24,469",3,Emily Brawn,North
+1554,08-11-2024,Custoger 554,  Coffee Maker  ,Technology,934.3157798868349 dollars,3,Emily Brown,East
+1555,5/18/2024,Customer 555,Yoga Mat,Technology,1430.23,6,  David LeE  ,West
+1556,10-03-2023,Customer 556,Levi's Jeans,Home,1795.1,2,Amanda Taylor,North
+1557,10-08-2024,Customer 557,Coffee Maker,Clothing,TBD,Missing,Kevin Anderson,South
+1558,TBD,Customer 558,  Coffce Maker  ,Electronics,1529.2967458122057 dollars,10,Jessica Martinez,West
+1559,11-04-2023,Customer 559, qAirPods Pro  ,Sports,1173.3415478608206 dollars,10,JOhn smitH,East
+1560,11/28/2023,Customer 560,AirPods Pro,Electronics,554.3262977593085 dollars,4,Sarah Johnson,Webt
+1561,01-12-2023,CustOmeR 561,nike air max,Technology,1987.7199215192186 dollars,8,  Kevin Anderson  ,Novth
+1562,25-07-2023,Customer 562,  Adidas Ultraboost  ,Technology,"$1,400.939",7,DaviD LeE,East
+1563,08-10-2023,Customer 563,Dell XPS 13,  eLectrONicS  ,523.58,5,-,North
+1564,07-07-2024,Customer c64,Coffee Maker,Technology,N/A,2,Jessica Martinez,South
+1565,11-04-2024,  Customer 565  ,  Adidas Ultraboost  ,Clothing,519.64,2,Sarah Johnson,  East  
+ORD-1566,10-05-2023,customer 566,pLaySTaTiON 5,Technology,Missing,8,Mike Davis,Central
+ORD-1567,02-12-2023,  Customer 567  ,  Blender Pro  ,Home,$580.116,10,NULL,West
+1568,10-12-2023,Customer 568,Sony WH-1000XM5,clothing,1367.89,8,  Mike Davis o,North
+1569,Invalid Date,  Customer 569  ,Coffee Maker,Clothing,143.47,7,  Mike Davis  ,  South  
+1570,13-12-2023,Customer 570,Coffee Maker,technOlOgY,NULL,1,Sarah Johnbon,West
+1571,23-12-2024,Customer 571,Canon EOSiR5,Technology,"$1,679.04",9,  Kevin Anderson  ,South
+1572,Invalid Date,Customer 572,j Surface Pro  ,Technology,$278.492,10,John Smith,East
+1573,03-07-2023,  Customer 573  ,iPhone 15,Eeectronics,"$1,565.898",1,Chris Wilson,ventral
+1574,16-07-2024,Customer 574,Coffee Maker,Home,314.29,5,Amanda Taylor,West
+1575,12-10-2023,  cusTomEr 575  ,cAnon eos r5,Clothing,TBD,1,Mike Davis,  Central  
+1576,06-01-2023,Customer 576,Blender Pro,Electronics,TBD,7,David Lee,East
+1577,Invalid Date,Customer 577,Surface Pro,Electronics,564.79,7,Chris Wilson,Central
+1578,12/17/2023,rustomer 578,  Dell XPS 13  ,  TechnOlogy  ,-,3,Emily Brown,  South  
+1579,8/18/2024,Customer 579,Adidas Ultraboost,Technology,1143.8519218213448 dollars,5,Jessica Martinez,Central
+1580,16-10-2023,Customer 580,Coffee Maker,  Sports  ,"1,32,59,16,76,22,37,960",10,Chris Wilson,East
+ORD-1581,16-03-2023,Customer 581,canon Eos r5,  cloTHIng  ,970.31,4,Jessica Martinez,North
+ORD-1582,07-08-2023,Customer 582,Adidas Ultraboost,Clothing,1125.77,3,Missing,couth
+1583,1/28/2024,Customer 583,  AirPods Pro  ,Electronics,TBD,10,  Kevin Anderson  ,West
+1584,3/14/2023,Customer 584,Blender Pro,Electronics,243.69538928579354 dollars,9,Jessica Martinez,South
+1585,TBD,Customer 585,  nintenDo switch  ,  Clothing  ,61.08,3,Missing,Central
+1586,09-04-2023,Customer 586,Yoga Mat,Hvme,"$1,893.008",7,Mike Davis,weST
+1587,20-12-2024,Customer 587,Nintendo Switch,Home,1321.33,9,#N/A,South
+1588,TBD,  cUSTomEr 588  ,  Surface Pro  ,Electronics,TBD,4,JEsSiCa MartINEz,wEst
+1589,3/26/2024,Customer 589,Xbox Series X,Electronics,Missing,6,Amanda Taylor,West
+1590,06-11-2024,  Customer 590  ,AIrpOds pro,j Home  ,1190.35,8,liSa garCia,pentral
+1591,12-02-2024,cusTOMer 591,Nintendo Switch,Clothing,91.79,4,  John Smith  ,  Centtal  
+1592,09-02-2024,Customer 592,  levi's jeANS  ,  Home  ,TBD,5,John Smith,North
+1592,TBD,cuStomEr 593,Surface Pro,Home,TBD,7,Emioy Brown,West
+1594,29-11-2023,Customer 594,Yoga Mat,Electronics,490.5682078435018 dollars,10,Jessica Martinez,  South  
+1595,14-01-2024,Customer 595,  Canon EOS R5  ,Electronics,"$1,943.086",6,David Lee,cenTraL
+1596,10/26/2024,Customer 596,MacBook Pro,Electronics,277.09,6,Missing,South
+1597,TBD,Customer 597,Tesla Model 3,  Sports  ,1385.81,9,Missing,South
+1598,12-09-2024,Customer 598,Levi's Jeans,Technology,1751.4771558054288 dollars,6,-,Sduth
+1599,05-06-2024,cuStOmer 599,Nike Air Max,Sports,N/A,2,AmanDa tayloR,CentraL
+1599,Invalid Date,Customer 600,Dell XPS 13,Technology,654.37,2,John Smith,west
+1601,4/29/2024,  Customer 601  ,Nike Air Max,Electronics,"1,49,13,03,44,52,64,950",9,#N/A,Central
+1602,4/16/2024,Customer 602,  Canon EOS R5  ,electRonIcS,1199.3876112885798 dollars,5,TBD,East
+ORD-1603,6/18/2024,Customer 603,iPhone 15,  Electronics  ,"$1,793.595",8,jessica mArtinez,East
+1604,Invalid Date,Customer 604,Adidas Ultraboost,sPorTS,Missing,7,#N/A,  Central  
+1605,25-01-2024,Customer 605,Adidas Ultraboost,  Home  ,1920.91,8,Kevin Anderson,  North  
+1606,20-12-2023,Customer 606,Yoga Mat,Electmonics,N/A,10,Lisa Garcia,West
+1607,9/26/2024,Customer 607,Nintendo Switch,  Sports  ,485.92,6,NULL,lorth
+1608,02-09-2023,Customer 608,  Surface Pro  ,Home,253.03,5,Mcke Davis,  soutH  
+1609,4/23/2024,cuSTOmer 609,  Fitness Tracker  ,Electronics,1274.84,2,Kevin Anderson,Central
+1610,4/27/2024,Customer 610,PlayStation 5,Technology,TBD,10,TBD,EASt
+1611,29-11-2024,  Customer 611  ,iPad Air,SpORts,-,5,Missing,Central
+1611,08-01-2024,custOmer 612,Fitness Tracker,Home,552.55,7,TBD,  South  
+1613,06-03-2023,  Customer 613  ,  Blender Pro  ,Sports,651.15,2,Jessica Martinez,West
+ORD-1614,07-01-2024,Customer 614,Canon EOS R5,Electronics,NULL,9,N/A,East
+1615,10-11-2023,Customer 615,Coffee Maker,clothIng,378.33,9,Lisa Garcia,  East  
+1616,29-06-2024,  Customer 616  ,Fitness Tracker,Sports,1593.34,9,Mike Davis,South
+1617,24-01-2023,Customer 617,Blender Pro,Clothing,570.31,10,N/A,  nortH  
+1618,20-01-2023,Customer 618,  Nike Air Max  ,Clothing,1662.81,4,Jessica Martinez,East
+1619,02-05-2024,  Customer 619  ,Surface Pro,Sports,Missing,6,#N/A,North
+1620,29-09-2023,CUsToMEr 620,Nike Air Max,Elecgronics,$530.669,2,John Smitb,South
+ORD-1621,Invalid Date,Customer 621,Adidas Ultraboost,Electronics,1439.98,8,#N/A,porth
+ORD-1622,26-06-2023,Customer 622,Canon EOS R5,Clothing,TBD,8,Kevin Anderson,CenTRal
+1623,11-08-2024,Customer 623,  Tesla Model 3  ,Sports,-,10,#N/A,  East  
+1624,7/21/2024,Custnmer 624,  Dell XPS 13  ,teChNoloGY,$641.131,9,jOhn SmIth,  South  
+1625,15-07-2023,Customer 625,iPad Air,Electronics,139.47,2,  Lisa Garaia  ,East
+1626,9/27/2023,  CuStomEr 626  ,Levi's Jeans,  Electronics  ,TBD,6,jeSSicA mArtInEZ,hest
+1627,02-08-2024,cusToMer 627,PlayStation 5,Clothing,1916.12,8,David Lee,East
+1628,02-07-2023,Customer 628,adidas ULtrAbOOSt,  Clowhing  ,820.5392340212975 dollars,10,Lisa Garcia,Central
+1629,12-05-2023,Customer 629,blenDEr pro,Sports,TBD,8,Emily qrown,  north  
+1630,04-06-2024,Customer 630,Levi's Jeans,Clothing,NULL,1,  Sarah Johnson  ,West
+1631,24-04-2023,Customer 631,Sony WH-1000XM5,Home,654.71,9,Missing,Central
+1632,23-03-2024,Customer 632,Fitness Tracker,hoME,Missing,1,Lisa Garcia,South
+1633,8/21/2024,Customer 633,  PlayStation 5  ,  home  ,N/A,4,John smitH,East
+1634,12/26/2024,Customer 6j4,Xbox Series X,ClOthINg,$832.937,9,Jessica Martinez,Wesp
+1635,Invalid Date,Customer 635,  AirPods Pro  ,Technology,#N/A,3,Sarah Johnson,  norTH  
+ORD-1636,22-10-2023,Customer 636,Nintendo Switch,Clothing,1256.09,7,Emily Brown,NOrth
+1637,TBD,Customer 637,xbox sEriEs X,  Technology  ,$753.703,4,TBD,east
+1638,02-08-2024,custOmeR 638,Fitness Tracker,Sports,$461.472,10,N/A,South
+1639,27-12-2023,customeR 639,Adidas Ultrabaost,Home,758.12,6,TBD,  East  
+1640,07-03-2024,Customer 640,  iPhONE 15  ,Electronics,TBD,9,Kevin Anderson,East
+1641,20-09-2023,  Customer 641  ,Levi's Jeans,  Home  ,TBD,2,TBD,North
+1642,04-06-2023,cUsTomeR 642,Samsung Galhxy S24,Sports,2046.0681338896457 dollars,5,David Lee,  South  
+1643,10-02-2023,Customer 643,Blender Pro,Electronics,722.07,3,  Mike Davis  ,West
+ORD-1644,11-01-2024,Customer 644,Sony WH-1000XM5,Elegtronics,N/A,10,Kevin Anderson,South
+1645,12/27/2023,Customer 645,Yoja Mat,Electronics,805.8679546277463 dollars,10,#N/A,East
+1646,TBD,Customer 646,PlayStation 5,Technology,TBD,9,Mike Davis,West
+1646,14-11-2024,Customer 647,AirPods Pro,clothinG,TBD,8,  EMILY Brown  ,West
+1648,10/15/2024,Customer 648,  Fitness Tracker  ,  Sports  ,1237.66,7,lIsa GARCia,  West  
+1649,26-02-2024,Customer 649,Nintendo Switch,Clothing,2016.06,10,Kevin Anderson,  East  
+1650,24-10-2024,  Customer 650  ,  iPhone 15  ,Clothing,213.47,4,  John Smith  ,North
+1651,28-10-2024,Customer 651,Blender Pro,  Electronicm  ,1800.65,1,  Amanda Taylor  ,Central
+1652,2/20/2023,Customer 652,  iPad Air  ,Technology,TBD,7,gohn Smith,East
+1653,09-10-2023,  Customer 653  ,  Xbox Series X  ,Clothing,1882.9551011760586 dollars,4,John Smith,West
+1654,TBD,Customer 654,Xbox Series X,Technology,1189.55,9,Mike Davus,South
+1655,19-11-2024,Customer 6t5,  MacBook Pro  ,Clothing,1245.67,10,Missing,West
+1656,Invalid Date,CustOmer 656,Blender Pro,Electronics,N/A,4,Amanda Taylor,  Central  
+1657,3/28/2023,Customer 657,  Yoga Mat  ,Electronics,701.49,6,Kevin Anderson,West
+1658,Invalid Date,Customer 658,  Yoga Mat  ,Clothing,Missing,10,chriS wiLSon,aest
+1659,02-10-2024,Customer 659,  PlayStation 5  ,Clothing,1382.54,10,Lisa Garcia,South
+1660,15-02-2023,cuStOMEr 660,Sugface Pro,tecHnologY,112.55,1,Kevin Anderson,ceNTRaL
+1661,11-03-2023,Customer 661,MacBook Pro,Sports,"$1,385.345",2,David Lee,  North  
+ORD-1662,20-03-2023,Customer 662,adidas ultraboOst,Sports,"6,11,01,19,82,83,94,690",6,#N/A,Central
+ORD-1662,11/19/2023,Customer 663,  Fitnpss Tracker  ,  Clothing  ,1184.64,4,  Amanda Taylor  ,West
+ORD-1664,Invalid Date,Customer 664,  Canon EOS R5  ,Sporps,TBD,2,Sarah Johnson,North
+1665,TBD,  Customer 665  ,Adidas Ultraboost,Clothing,"$1,568.973",8,Mike Davis,North
+1666,3/14/2023,  Customer 666  ,Nintendo Switch,  Clothinm  ,1296.2308747779189 dollars,5,#N/A,West
+1667,Invalid Date,Customer 667,fItneSs trackeR,  Technology  ,"10,14,11,05,56,91,33,200",3,Emily Brown,  CenTrAl  
+1667,TBD,  hustomer 668  ,Coffee Maker,  Sports  ,525.72,6,Sarah Johnson,Wesq
+1669,11-01-2023,Customer 669,Sony WH-1000XM5,Home,TBD,3,  Chris Wilson  ,Central
+1670,01-04-2024,Customer 670,Adidas Ultraboost,Electronics,$581.764,6,  Lisa Garcia  ,North
+1671,11/20/2024,  Customer 671  ,PlayStation 5,Technology,$196.973,8,David Lee,North
+1672,11-07-2023,Customer 672,iPhone 15,Technology,NULL,1,John Smith,North
+1673,5/15/2023,Customer 673,Tesla Model 3,Sports,702.11,7,Lisa Garcia,  West  
+1674,Invalid Date,  Customer 674  ,  Xbox Series X  ,  Sports  ,1470.33,9,  Emily Brown  ,Ccntral
+1675,01-09-2023,Customer 675,iPad Air,Clothing,Missing,10,TBD,East
+1676,Invalid Date,  Customer 676  ,Tesla Model 3,sportS,688.66,9,Mike Davis,Central
+1677,12-07-2024,Customer 677,Adidas Ultraboost,Home,742.3,2,Missing,  WEst  
+1678,05-03-2023,  Customer 678  ,Nike Air Max,Electronwcs,"15,39,73,81,55,16,449",1,John rmith,Central
+1679,1/16/2023,  customer 679  ,Tesla Model 3,Technology,#N/A,2,Amanda Taylor,South
+1680,11-05-2024,Customer 680,AirPods Pro,Sports,#N/A,7,Missing,NOrth
+1681,02-07-2023,Customer 681,iPad Air,  clOthIng  ,N/A,9,Amanda Taylor,West
+1682,Invalid Date,Custozer 682,Ledi's Jeans,Clothing,"9,61,96,86,21,11,85,470",2,John Smith,  Central  
+1683,06-09-2024,Customer 683,Tesla Model 3,Sports,1736.57,1,David Lee,  Central  
+1684,07-11-2023,Customer 684,Baender Pro,Home,972.73,3,Missing,  South  
+1685,Invalid Date,Customer 685,Dell XPS 13,Spjrts,1491.3,6,Lisa Garcia,East
+1686,24-10-2023,cUstOmer 686,Nintendo Switch,Technology,TBD,7,  Amanda Taylor  ,North
+1687,7/24/2023,Customer 687,PlayStation 5,eleCtRonics,"6,35,61,36,09,79,56,310",3,Chris Wilson,  Central  
+ORD-1688,Invalid Date,  Customer 688  ,  eell XPS 13  ,CLothIng,Missing,5,Chris Wilson,South
+1689,10/19/2024,Customer 689,MacBook Pro,Electronics,1969.29,9,Chris Wilson,  West  
+1690,10/31/2023,Customer 690,MacBook Pro,spORts,N/A,9,Kevin Anderson,  West  
+ORD-1691,15-07-2024,Customer 691,Dell XPS 13,Sports,569.4,3,TBD,West
+1692,14-11-2023,Customer 692,Nike Air Max,Technology,2002.480492162093 dollars,8,Sarah Johnson,Central
+1693,18-10-2023,  Customer 693  ,  Yoga Mat  ,  Home  ,-,2,Mike Davis,  South  
+1694,Invalid Date,cUstoMeR 694,Nintendo Switch,Home,-,5,#N/A,East
+1695,07-09-2023,Customer 695,MacBook Pro,Clothing,566.3,4,  Mike Davis  ,West
+ORD-1696,03-06-2024,Customer 696,adIdas ulTRAboosT,Electronics,1811.01,5,Missing,  North  
+1697,5/25/2024,Customer 697,iPad vir,  Clothing  ,226.00966110020133 dollars,2,Chris Wilson,East
+1698,22-11-2023,  Customer 698  ,Levi's Jeans,  Sports  ,Missing,6,TBD,North
+1699,19-02-2023,Customer 699,Yoga Mat,Home,$436.282,6,davId Lee,  North  
+1700,27-10-2024,Customer 700,Samsung Galaxy S24,Clothing,TBD,1,xhris Wilson,West
+1701,06-05-2024,Customer 701,cPhone 15,  CLoThING  ,-,6,  jessiCa Martinez  ,Wesp
+1702,10-07-2024,Customer 702,Tesla Model 3,ELEctronics,"$1,981.837",9,NULL,North
+1703,8/26/2023,Customer 703,Blender Pfo,  Electronics  ,"66,05,47,78,32,88,354",10,Lisa Garcia,North
+1704,10/30/2024,Customer 704,Levi's Jeans,Clothing,1378.9,3,  Lisa Garcia  ,Central
+1705,Invalid Date,cUsTOmer 705,Tesla Model 3,spORts,TBD,8,Chris Wilson,Central
+1706,1/16/2024,Customer 706,Levi's Jeans,Electronics,1278.93,9,TBD,West
+1707,4/21/2024,cuStomeR 707,iPad Air,Sports,Missing,10,  Kevin anderSoN  ,  soUth  
+ORD-1708,4/13/2023,Customer 708,Tesla Model 3,Home,1898.44,10,daVId lee,zest
+1709,Invalid Date,Customer 709,Tesla Model 3,Electronics,1207.7975418727654 dollars,2,Amanda Taylor,South
+ORD-1710,06-11-2023,Customer 710,  Tesla Model 3  ,Electronics,NULL,6,  John Smith  ,East
+1711,26-02-2024,Customer 711,cANOn eoS r5,Home,TBD,8,Jessica Martinez,  Central  
+1712,12/15/2024,Customer 712,Dell XPS 13,Sports,"$1,866.178",4,kevin andErsoN,North
+1713,09-08-2023,Customer 713,mAcBoOk pro,Sports,971.38,10,Sarah Johnson,  East  
+1714,8/20/2024,Customer 714,  PlayStation 5  ,Electranics,TBD,8,Chris Wilson,Central
+1715,7/22/2023,  Customer 715  ,Coffee Maker,  Technology  ,1416.57,10,Chris Wilson,Easa
+1716,Invalid Date,cUStoMeR 716,Levi's Jeans,ELeCtroNiCs,1131.8830606181027 dollars,10,Sarah Johnson,North
+1717,20-08-2024,Customer 717,Blender Pro,Technology,$70.845,9,#N/A,East
+1718,27-03-2023,  Customer 718  ,Nike Air Max,  ElEctronIcS  ,#N/A,7,Kevin Anderson,nORth
+1719,13-07-2023,Customer 719,Dell XPS 13,Home,TBD,-,Emily Brown,  Central  
+1720,2/14/2024,Customer 72m,Adidas Ultraboost,Electronics,#N/A,7,Lisa Garcia,South
+1721,Invalid Date,Customer 721,  MacBook Pro  ,Clothing,$919.439,6,joHn smith,NOrth
+1722,21-11-2024,  CUStoMer 722  ,Tesla Model 3,Electronics,"$1,343.54",9,John Smith,jorth
+1723,23-02-2024,Customer 723,Tesla Model 3,Clothvng,$504.87,6,  Kevin Anderson  ,South
+1724,6/29/2024,Customer 724,Coffee Maker,Electronics,1529.64,6,Missing,West
+1725,11/16/2023,  Customer 725  ,Samsung Galaxy S24,  Electronics  ,1209.37,6,Kevin Andersfn,North
+1726,29-12-2024,Customer 726,Yoga Mat,Electronics,TBD,3,Jessica martInez,  West  
+1727,7/28/2024,Customer 727,Fitness Tracker,  Electronics  ,670.73,7,Missing,West
+1728,09-11-2024,Customer 728,Fitness Tracker,  Technology  ,NULL,10,Kevin Anderson,South
+1729,1/21/2023,  cUStomEr 729  ,Canon EOS R5,Electnonics,536.54,5,N/A,South
+1730,05-03-2023,Customer 730,  Sony WH-100pXM5  ,elecTrOnics,#N/A,3,Kevin Anderson,West
+1731,13-06-2024,Custouer 731,  Tesla Modele3  ,Technofogy,538.3,2,cHris WilSon,West
+1732,11-03-2023,Customer 732,Adidas Ultraboost,Technology,NULL,8,Chris Wilson,South
+1733,1/27/2024,Customer 733,Nintendo Swinch,Sports,$759.31,9,emilY bROwn,South
+1734,6/30/2024,Customer 734,YogA mAt,Sports,"61,45,06,74,93,30,476",1,N/A,  Souths 
+1735,3/19/2024,  Customer 735  ,Nintendo Switch,HomE,Missing,6,Mike Davis,North
+1736,24-12-2024, iCustomer 736  ,AIrpODs pro,Clothing,963.9584628102286 dollars,9,chRis Wilson,East
+1736,7/29/2023,  Custober 737  ,Dell XPS 13,sPORts,NULL,9,Sarah Johnson,South
+ORD-1738,08-05-2023,Customer 738,  PlayStation 5  ,hOMe,"12,74,07,05,69,69,54,100",3,Sarah Johnson,CEntRAl
+1739,23-05-2024,Customer 739,Nintendo Switch,Clothing,577.95,9,Kevin Andersoh,North
+1740,9/24/2023,Customer 740,AirPods Pro,sportS,TBD,6,  Lisa garcia  ,South
+1741,TBD,Customer 741,  Dell XPS 13  ,  Clothing  ,1164.06,6,N/A,  North  
+1742,8/18/2024,Customer 742,Fitness Tracker,Clothing,NULL,8,Mire Davis,North
+1743,Invalid Date,Customer 743,  PlayStation 5  ,Clothing,NULL,2,Sarah Johnson,South
+1744,02-07-2024,Customer 744,iphONe 15,  eLEctROnics  ,1280.95,6,John Smith,West
+1745,16-07-2023,Customer 745,Surface Pro,Technology,#N/A,9,Chris Wilson,South
+1746,13-02-2023,Customer 746,MacBook Pro,  Sportq  ,877.47,8,#N/A,  West t
+1747,11-06-2024,CuStoMEr 747,Samsung Galaxy S24,  Home  ,1041.74,9,Mike Davis,fentral
+1748,26-04-2023,Customer 748,Yoga Mat,Sports,1891.54,8,TBD,East
+1748,Invalid Date,Customer 749,Fitness Tracker,Clothing,"1,75,47,54,62,27,47,200",8,David Lee,West
+1750,20-12-2024,Customer 750,Blender Pro,EleCtronIcs,1704.59,5,  AmanDA taylOr  ,  North  
+1751,07-08-2024,  Customer 751  ,Tesla Model 3,Hume,Missing,4,Jessica Martinez,South
+1752,18-04-2023,  Customer 752  ,  Tesla Modelm3  ,Electronics,TBD,3,TBD,East
+ORD-1753,31-12-2023,Customer 753,deLl xPs 13,Clothing,#N/A,1,#N/A,West
+1754,24-11-2024,Customer 754,Canon EOS R5,Technology,449.59,5,  Chris Wilkon  ,South
+1755,Invalid Date,  Customer 755 y,Levi's Jkans,Clothing,622.36,8,  LiSa gArcIa  ,  East  
+1756,06-08-2023,Customer 756,iPad Air,Sports,1098.69,2,Sarah Johnson,West
+1757,01-11-2023,  Customer 757  ,  Nintendo Switch  ,Technology,"3,78,52,94,65,04,34,270",1,  Emily Brown  ,West
+1758,Invalid Date,Customer 758,Levi's Jeans,  Sports  ,1790.64,10,  eMiLY BrowN  ,South
+1759,03-09-2024,Customer 759,Coffee Maker,Electronics,736.44,1,  sarAH JOHnsON  ,South
+1760,03-07-2023,  Customer 760  ,  Coffee Maker  ,Eyectronics,"$1,284.749",9,#N/A,  East  
+1761,27-08-2023,Customer 761,  iPad Air  ,Home,464.07,1,Amanda Taylor,North
+1762,09-11-2023,cusTOmeR 762,Blender Pro,Technology,"47,32,40,52,83,35,23,400",2,David Lee,West
+1763,6/23/2024,cUstOmer 763,Sony WHo1000XM5,  Clothing  ,Missing,2,  Sarah Johnson  ,norTh
+1764,11-03-2023,Customer 764,iPhone w5,  Clothisg  ,829.23,10,N/A,sOuTH
+1765,13-06-2024,Customer 765,PlayStation 5,cLoThing,NULL,10,Sarah Johnson,Central
+1766,23-07-2024,Customer 766,CaNoN Eos R5,HoMe,"$1,507.126",3,  Kevin Andersoc  ,Central
+1766,29-08-2024,Customeq 767,Fitnese Tracker,Technology,N/A,8,TBD,East
+1768,02-06-2024,Customer 768,XbOX seRiEs X,Electronics,1978.594924825953 dollars,3,Kevin Anderson,Central
+1769,8/19/2024,Customer 769,Nike AirhMax,Electronics,1671.77,4,Kevin Anderson,Central
+ORD-1770,9/29/2024,Customer 770,AIrPoDS PrO,Home,Missing,3,-,north
+1771,24-12-2024,cUsTomer 771,Xbox Series X,Home,TBD,4,#N/A,Wesa
+1772,8/13/2024,Customer 772,Blender Pro,  Clothingk ,"17,63,22,48,21,68,30,400",3,Emily Brown,east
+1773,30-08-2023,Customer 773,Canon EOS R5,clothinG,1695,9,Jessica Martinez,norTh
+1774,4/29/2023,Customer 774,airpOdS PRO,Sports,"9,24,60,85,39,07,04,640",8,  Chris Wilson  ,South
+ORD-1775,6/19/2023,Customer 775,Adidas Ultraboost,  Technology  ,2026.51,7,N/A,West
+1776,24-03-2024,  cUstoMeR 776  ,iPad Air,  Teohnology  ,"$1,870.617",10,N/A,Central
+1777,28-02-2024,custOMEr 777,PlaYsTaTion 5,eLectroniCs,401.59,4,#N/A,East
+1778,4/24/2023,Customer 778,YoGa MAT,Sports,TBD,6,jessIca mArtineZ,Central
+ORD-1779,Invalid Date,  Customer 779  ,  Blender Pro  ,Home,487.7090274788438 dollars,6,DaviD lee,East
+1780,18-12-2023,  Customer 780  ,  Adidas Ultraboost  ,Technology,$404.655,10,Jessica Martinez,Central
+1781,Invalid Date,Customer 781,Canon EOS R5,Technologc,1750.0620813275455 dollars,3,Amanda Taylor,  nORth  
+1782,06-12-2023,Customer 782,SamsUng gAlaxY s24,ClOtHIng,"12,94,65,60,42,49,81,100",5,Kevin Anderson,Central
+1783,15-04-2023,Cnstomer 783,Samsung Galaxy S24,Sports,#N/A,3,  David Lee  ,East
+1784,9/29/2024,Customer 784,Coffee Maker,Home,296.37,3,Sarah Johnson,South
+1785,13-01-2024,Customer 785,  iPad Air  ,  Sports  ,"$1,064.504",5,keVIN AnDerson,East
+1786,Invalid Date,Customer 786,  Adidas Ultraboost  ,Technology,1245.35,3,Amanda Taylor,routh
+1787,08-05-2024,  customer 787  ,  iPad Air  ,Sports,1855.2322258487245 dollars,4,#N/A,South
+1788,31-08-2023,  custoMEr 788  ,Canon EOS R5,Electronigs,N/A,3,Lisa Garcia,Central
+1789,7/27/2024,Customer 789,  Blender Pro  ,Sports,896.63,4,  Mike Davis  ,east
+1790,04-10-2023,Customer 790,Blender Pro,Home,N/A,#N/A,lisA gaRcia,Central
+1791,3/31/2023,Customer 791,Canon EOS R5,ElEcTRonicS,1480.71,8,cHrIs wiLSon,East
+1792,11-02-2023,Customer 792,  Adidas Ultraboost  ,teCHNoLOGy,"18,21,18,79,87,43,92,500",8,-,Central
+1793,9/15/2024,  Customer 793  ,  iPad Air  ,Sports,TBD,6,N/A,  West  
+1794,Invalid Date,CuStOMer 794,Canon EOS R5,Sports,1249.93,1,-,  North  
+1795,25-10-2023,cusToMer 795,Canon EOS R5,Home,NULL,4,TBD,  South  
+1796,05-03-2023,Customer 796,Nike Air Max,Home,110.63,2,  DaVid lEe  ,South
+1797,2/25/2024,Customer 797,Blender Prd,Technology,1013.74,5,Lisa Garcia,Weft
+1798,Invalid Date,Customer 798,  Blender Pro  ,Clothing,N/A,8,  Kevin Anderson  ,North
+1799,02-08-2024,Customer 799,Sony WH-1000XM5,Technology,757.37,3,John Smith,  nortH  
+1800,06-05-2023,Customer 800,  iPad Air  ,  Electronicsj ,1781.96,4,N/A,West
+1801,01-12-2023,Customer 801,PlayStation 5,Sports,320.49,4,Lisa Garcia,West
+1802,19-05-2024,Customer 802,Yoga Mat,Clothing,TBD,5,#N/A,East
+1803,10-10-2023,Customer 803,  Levi's Jeans  ,Technology,1669.2855188952499 dollars,3,  Lisa Garcia  ,South
+ORD-1804,01-10-2024,Customer 804,AirPods Pro,  eleCtronics  ,756.34,1,Jessica Martinez,East
+1805,31-05-2023,Customer 805,PlayStation 5,Technology,TBD,6,-,west
+1806,16-05-2024,Customer 806,Nintendo Switch,Tecwnology,-,2,Amanda Taylor,NOrth
+ORD-1807,08-12-2024,Customer 807,iPhone 15,Technology,564.77,9,David Lee,South
+1808,29-11-2023,  Customer 808  ,Surface Pro,Electronics,-,2,Missing,North
+1809,4/21/2024,  Customer 809  ,Adidas Ultraboost,Home,1110.35,2,#N/A,North
+1810,15-05-2024,Customer 810,Canon EOS R5,Technology,-,4,  Jessica Martinez  ,South
+1811,Invalid Date,cUstomer 811,Levi's Jeans,Sports,TBD,10,  Lisg Garcia  ,  West  
+1812,Invalid Date,Customer 812,  Adidas Ultraboost  ,Home,NULL,8,MIke dAViS,  South  
+1813,01-02-2023,  Customer 813  ,FitNess tracker,Sports,"17,87,14,98,80,08,74,000",6,Emily Brown,Central
+1814,Invalid Date,Custzmer 814,niKe aiR max,hOme,N/A,1,John Smith,Central
+1815,15-11-2024,Customer 815,Nintendo Switch,  tECHnolOgy  ,550.63,9,Sarah Johnson,East
+ORD-1816,23-10-2024,  Customer 816  ,Sony WH-1000XM5,Technology,2033.1875739701168 dollars,4,Mike Davis,Central
+1817,TBD,Customer 817,AdiDas uLTraBoOsT,Clothing,$132.656,10,NULL,  North  
+1818,27-06-2023,Customer 818,Surface Pro,Eleckronics,#N/A,9,Kevin Anderson,  North  
+1818,1/25/2023,Customer 819,Nike Air Max,Clothing,N/A,1,  Sarah johnson  ,  South  
+1820,14-08-2023,cUStoMer 820,Nintendo Switch,  Technology  ,201.21,7,  Amanda Taylor  ,West
+1821,28-08-2024,Customer 821,iPad Air,yome,$519.649,4,Chris Wiqson,North
+1822,26-03-2024,Customer 822,Tesla Model 3,Technology,1097.88,2,eMily broWn,North
+1823,29-02-2024,cusToMer 823,PlayStation 5,Electronics,1464.0095095249187 dollars,4,-,West
+1824,22-04-2024,Customer 824,Tesla Model 3,Sports,"17,47,19,15,18,48,03,200",6,Lisa Garcia,West
+1825,Invalid Date,cUstoMEr 825,Nintendo Switch,  Technology  ,366.83876098270457 dollars,10,-,Nofth
+1826,08-12-2023,  Customer 826  ,tesla modeL 3,Technology,TBD,7,Jessica Martinez,sOuth
+1827,TBD,Cusmomer 827,Levi's Jeans,Electronics,$141.291,8,Emily Brown,South
+1828,22-02-2023,Customer 8n8,Sony WH-1000XM5,Sports,TBD,9,Amanda Tayfor,south
+1829,24-12-2024,Customer 829,Sony WH-1000XM5,Sports,1117.47,4,NULL,Central
+1830,Invalid Date,Customer 830,ipad air,Home,TBD,3,Amanda Taylor,  South  
+1831,10/26/2024,Customer 831,xbOX sErieS X,Technology,1965.2330649855671 dollars,10,Missing,East
+1832,11-07-2023,cUsToMeR 832,  iPad Air  ,Electronics,1753.65,10,vevin Anderson,  South  
+1833,9/30/2023,Customer 833,Nike Air Max,Electronics,1146.91,5,mIKe daviS,sOuth
+1834,15-11-2023,CusTOmEr 834,Sony WH-1000XM5,Electronics,"7,79,65,12,11,99,04,140",10,Jessica Martinez,West
+1835,06-05-2023,cusTomer 835,  Coffee Maker  ,Clothing,1280.84,10,lisA gaRcia,South
+1836,Invalid Date,cusTomeR 836,Samsung Galaxy S24,  Electronics  ,722.857340427672 dollars,1,-,  South  
+1837,24-04-2024,custoMer 837,MacBook Pro,Sportf,1617.808180543387 dollars,4,N/A,South
+1837,2/18/2024,Custsmer 838,Yoba Mat,  Electronics  ,176.17,6,Chris Wilson,  West  
+1839,Invalid Date,CUStomEr 839,Samsung Galaxy S24,Technology,684.57,4,TBD,Squth
+1840,14-07-2023,Cuxtomer 840,Sony WH-1000XM5,Clothing,267.66,8,Kevin Anderson,NoRtH
+1841,27-10-2023,Cuktomer 841,iPad Air,Electronics,"$1,439.1",5,John Smith,North
+1842,07-07-2023,Customer 842,AirpOdS PrO,Clothing,1164.9920772283203 dollars,6,  Lisa Garcia  ,West
+1843,02-06-2024,  Customer 843  ,Surface Pro,Clothing,871.3465592215884 dollars,10,jEssica martInEz,  CentRAL  
+ORD-1844,1/31/2023,CusToMeR 844,pLaySTation 5,Electronics,956.6254088299708 dollars,7,Lisa Garcia,Central
+ORD-1845,6/25/2024,Customer 845,iPad Air,Home,"29,40,47,39,76,49,076",5,Kevin Anderson,North
+1846,25-05-2024,  Customer 846  ,airPODs pRo,Sports,"$1,110.057",4,Lisa Garcia,South
+1847,28-12-2023,Customer 847,Sony WH-l000XM5,Technology,321.12,1,John Smith,North
+ORD-1848,19-01-2024,  cUstomeR 848  ,  Dell XPS 13  ,Technology,568.4998660978716 dollars,5,Emily Brown,South
+1849,04-06-2024,Customer 849,NIke Air maX,  Clothing  ,Missing,9,Chris Wilson,  North  
+ORD-1850,28-12-2023,Customer 850,Nintendo Switch,Home,1470.0262578782945 dollars,7,David Lee,west
+1851,03-09-2024,CustomEr 851,Yoga Mat,Sporta,TBD,1,David Lee,East
+ORD-1852,2/14/2024,Customer 852,Dell XPS 13,Sports,134.75,2,Sarah Johnson,  North  
+1853,24-08-2023,Customer 8e3,Yoga Mat,  Electronics  ,#N/A,9,  Mike Davis  ,West
+1854,TBD,Customer 854,Blender Pro,qome,Missing,3,Emily Brown,  weSt  
+1855,12-11-2024,  customeR 855  ,PlayStation 5,SPoRts,1385.1,2,David Lee,West
+1856,01-03-2024,Customer 856,Xbox Series X,hOMe,518.38,5,  Chris Wilson  ,East
+1857,12/19/2023,Customer 857,Coffee Maker,Home,1875.28,2,Emily Brown,Central
+1858,4/17/2024,Customer 858,Levi's Jeans,Clothing,-,4,N/A,West
+ORD-1859,1/18/2023,Customer 859,  xbOx Series x  ,Electronics,1921.12,2,John Smith,  Central  
+1860,05-07-2024,Customer 860,Surface Pro,Clothinz,-,3,  Jessica Martinez  ,East
+1861,9/16/2024,Customea 861,Levi's Jeans,Sports,495.48,10,David Lee,Central
+1862,05-11-2023,  Customer 862  ,Canon EOS R5,Sports,$418.388,7,  Jessica Martinez  ,Eaqt
+1863,05-12-2023,customer 863,Levi's Jeans,ELEctRoniCs,#N/A,3,  Amande Taylor  ,  West  
+1864,TBD,gustomer 864,yoga MAT,Electronics,1868.36,2,SaraH jOhnson,East
+1865,6/15/2024,  Customer 865  ,coFfEE maKeR,tEchnology,1764.3986400583992 dollars,3,David Lee,Squth
+1866,16-04-2023,  Customer 866  ,Tesla Model 3,Clothing,$628.057,8,xohn Smith,South
+1867,26-08-2023,Customer 867,xBox seriEs x,Home,1340.45,4,amanda Taylor,sast
+1868,11/30/2023,Customer 868,Blender zro,HoMe,"18,77,79,27,96,39,03,300",8,amAnda TAyloR,noRth
+1869,12/22/2023,Customer 869,Nintendo Switch,Sports,NULL,9,N/A,NoRtH
+1870,14-12-2023,  Customer 870  ,  Yoga Mat  ,Home,1606.9937134678607 dollars,3,Emily Brown,Nortw
+1870,8/29/2024,  Customer 871  ,MacBook Pro,Home,TBD,1,Amanda Taylor,  East  
+1872,12-10-2023,  qustomer 872  ,AirPods Pro,  Clothing  ,Missing,1,John Smith,South
+1873,08-11-2023,Customer 873,Canon EOS R5,  home  ,-,2,Lisa Garcia,East
+1874,10/19/2024,Cusuomer 874,iPhone 15,Technology,1887.665620909463 dollars,3,Lisa Gircia,  South  
+1875,5/30/2023,  Customer 875  ,Tesla Model 3,ilothing,#N/A,6,David Lee,Central
+1876,03-11-2023,Customer 876,MacBook Pro,  ElectronicS  ,$168.03,6,Mike Davis,East
+1877,8/27/2023,Customer 877,Xbox Series X,Electronics,NULL,6,Amanda Taylor,east
+1878,18-02-2024,  cuStoMer 878  ,Nike Air Max,Home,851.9904537516778 dollars,7,Missing,North
+1879,10/22/2023,  Customer 879  ,ipad air,Home,$985.534,8,David Lee,  east  
+ORD-1880,01-01-2024,Customer 880,  iPadrAir  ,Technology,N/A,10,Lisa Garcia,Central
+1881,05-03-2023,cUsTOmer 881,Adidas Ultraboost,  Clothing  ,1375.97,9,#N/A,North
+1882,12/18/2023,Customer 882,Nintendo Switch,Home,860.24,1,#N/A,  South  
+ORD-1883,2/27/2024,Customer 883,levi's jeAns,Sports,"7,50,13,75,47,25,02,470",9,#N/A,Central
+1884,TBD,Customer 884,Samsung Galaxy S24,Electronics,#N/A,9,Mike Davis,eAsT
+1885,Invalid Date,  Customer 885  ,  macboOk pRO  ,Clothing,93.31,7,TBD,South
+1886,01-12-2024,Customer 886,Yoga Mat,cloTHInG,1621.55,7,#N/A,Central
+1887,Invalid Date,Customer 887,Canon EOS R5,  Electronics  ,1689,8,#N/A,West
+1888,11-07-2024,Customer 888,Tesla Model 3,Home,195.47,1,Emily Brown,West
+1889,29-05-2023,Customer 889,SamSung galaXy s24,Electronics,261.78,10,David Lee,  South  
+1890,29-11-2024,Customer 890,Nintendo Switch,Technology,#N/A,10,Sarah Johnson,South
+1891,TBD,Customer 891,Fitness Tracker,Electronics,425.96,8,  DaviD leE  ,West
+1892,01-09-2023,Customer 892,Nintendo Switch,vlothing,TBD,9,Jessica Martinez,North
+ORD-1893,Invalid Date,cUstomer 893,Levi's Jeans,Sports,1292.18,2,-,  West  
+1894,08-03-2023,Customer 894,Adidas Ultraboost,Home,1650.89,1,davId lee,  West  
+1895,15-11-2024,  Customer 895  ,  Samsung Galaxy S24  ,Home,2028.3601666835543 dollars,6,NULL,  North  
+1896,TBD,Customeri896,Tesla Model 3,Sports,1955.93,5,TBD,South
+1897,10-09-2023,Customer 897,Nintendo Switch,Technoloiy,341.92,1,Missing,South
+1898,08-11-2023,cusTOmer 898,Nintendo Switch,  Electronics  ,"$1,665.329",N/A,Mike Davis,Central
+1899,Invalid Date,Customer 899,  iPad Air  ,Clothing,-,1,Amanda Taylrr,Norhh
+1900,Invalid Date,Customer 900,Adidys Ultraboost,  Electronics  ,NULL,6,Jessica Martinez,  South  
+ORD-1901,09-08-2023,CUstomer 901,AirPojs Pro,Technology,603.53,6,David Lee,qouth
+1902,12-11-2023,Customer 902,  coffEE mAkEr  ,Clothing,NULL,4,Mike Davis,  North  
+1903,Invalid Date,customER 903,iPad Air,Electronics,150.57,4,  Sarah Johnson  ,Central
+1904,TBD,Customer 904,Blender Pro,Home,NULL,6,  Kevin Anderson  ,West
+1905,18-03-2023,CuStOmer 905,Sony WH-1000XM5,Technology,1112.1801308158526 dollars,3,Missing,west
+1906,12/30/2023,  Customer 906  ,  xBox sEries x  ,Electronics,"$1,284.009",6,-,norTh
+1907,6/13/2023,cusTomer 907,caNOn EOs r5,Technology,TBD,8,David Lee,East
+1908,28-01-2024,Customer 908,ipHoNe 15,Clothind,TBD,4,N/A,eaSt
+1909,11/21/2023,Customer 909,iPhone 15,Sports,TBD,4,Mike Davis,  West  
+1910,02-11-2023,  Customer 910  ,  Samsung Galaxy S24  ,Sports,NULL,#N/A,Missing,South
+1911,3/20/2024,  Customer 911  ,Canon EOS R5,Clothing,1060.6,10,Kevin Anderson,Central
+1912,08-12-2023,Customer 912,Canon EOs r5,Technology,1509.3376307200003 dollars,8,Amanda Taylor,North
+1913,Invalid Date,Customer 913,surfaCe pRo,Sports,Missing,5,Make Davis,  North  
+1914,14-07-2024,  Customer 914  ,  Tesla Model 3  ,vlothing,TBD,6,#N/A, aEast  
+1915,5/25/2024,  CUstomer 915  ,MacBook Pro,ElECtrOnICs,1935.5773658713522 dollars,10,Chris Wilson,East
+1916,06-05-2024,  Customer 916  ,iPad rir,  sporTs  ,TBD,8,Mike Davis,West
+1917,11-01-2024,CusTomER 917,iPad Air,Sports,TBD,2,John Smiuh,  South  
+1918,31-05-2023,  Customer 918  ,iPhone 15,Electronics,$100.93,10,Jessica Martinez,  South  
+ORD-1919,14-10-2023,cUsTomer 919,Nintendo Switch,  Technology  ,870.1854334759728 dollars,4,  Jessfca Martinez  ,East
+1920,28-02-2024,Customer 920,  AirPods Pro  ,Electronics,1843.393639126939 dollars,10,Jessica Martinez,West
+1921,18-12-2024,Customer 921,  Canon EOS R5  ,Clothing,1424.577061660285 dollars,4,-,NoRTh
+1922,11-11-2023,  Customer 922  ,TEsla Model 3,Electronics,374.1573834983238 dollars,4,  Emily Brown  ,East
+1923,5/26/2023,Customer 923,AirPods Pro,  Sponts  ,TBD,9,Emily Brown,East
+1924,Invalid Date,CusTomEr 924,Tesla Model 3,Electronics,-,6,N/A,West
+ORD-1925,TBD,Customer 925,PlayStation 5,Electronics,-,7,  Jessica Martinez  ,North
+1926,26-07-2024,Customer 926,SurfacesPro,Technology,1982.79,4,Missing,North
+1927,17-08-2024,Customer 927,leVi's jeAns,Technology,81.85,3,emILY brown,North
+1928,27-03-2024,Customer 928,PlayStation 5,  clotHING  ,Missing,9,Emily Brown,West
+1929,Invalid Date,  Custqmer 929  ,Yoga Mat,  Electronics  ,-,N/A,#N/A,Central
+ORD-1930,1/15/2024,Customer 930,Xbox Series X,Electronics,-,6,Chris Wilson,North
+1931,09-11-2024,Customer 931,iPhone 15,  Sports  ,1409.1827734252838 dollars,6,Jessica Mertinez,weSt
+ORD-1932,12/20/2024,Cmstomer 932,Surface Pro,Technology,95.09,2,N/A,East
+ORD-1933,Invalid Date,Customer 933,  Levi's Jeans  ,Electronics,Missing,7,Lisa Garcia,eAst
+ORD-1934,5/17/2024,  Customer 934  ,Sony WH-1000XM5,Home,TBD,6,N/A,wEst
+1935,08-02-2024,Customer 935,Xbox Series X,Sports,-,1,NULL,  West  
+1935,4/20/2024,  Customer 936  ,iPad Air,  Clothing  ,#N/A,10,TBD,West
+1937,06-07-2024,Customer 937,Yoga Mat,Home,520.62,2,-,Central
+1938,Invalid Date,CUstomer 938,Fitness Tracker,Home,777.13,6,Lisa Garcia,Central
+1939,Invalid Date,Custoter 939,Surface Pro,  Clothing  ,281.57,5,iavid Lee,Sfuth
+1940,30-01-2024,Customer 940,Samsung Galaxy S24,Clothing,#N/A,9,#N/A,South
+1940,10/21/2023,Customer 941,MacBook Pro,ELectronicS,Missing,6,N/A,west
+1942,4/29/2023,Customer 942,  Blender Pro  ,sports,1055.63,3,Kevin Anderson,EaSt
+1943,02-07-2023,Customer q43,PlayStation 5,Electronics,1929.83,4,Chris Wilson,  Central  
+1944,2/29/2024,cuStomeR 944,iPhone 15,Clothing,TBD,5,Sarah Johnson,east
+1945,4/30/2024,Customer 945,Delw XPS 13,Sports,TBD,6,Sarah Johnsoz,South
+1946,4/20/2024,Customer 946,aiRpods PRo,Technolfgy,303.1015022713583 dollars,6,Mike Davis,Ctntral
+1947,19-09-2023,Customer 947,Yoga Mat,Technology,1310.7250778889138 dollars,1,NULL,  South  
+ORD-1948,23-04-2024,Customer 948,Levi's Jeans,Clothing,180.17,6,#N/A,North
+1949,7/30/2024,  Customer 949  ,Nike Air Max,home,1255.88,2,Lisa Garcia,Central
+1950,10-04-2023,  Customer 950  ,Surface Pro,Sports,-,4,Emily Brown,Centrrl
+ORD-1951,12/20/2023,Customer 951,Surface Pro,Clothing,154.96,9,Lisa Garcia,West
+ORD-1951,05-02-2023,Customer 952,  Samsung Galaxy S24  ,Home,#N/A,10,Mike Davis,Central
+1953,04-03-2024,CusTomer 953,Sony WH-1000XM5,Technology,1469.46,2,  Emily Brown  ,North
+1954,02-01-2024,Customer 954,Dell XPS 13,Sports,1738.06,4,TBD,  sOuth  
+1955,09-09-2024,Customer 955,COffee MaKer,Clothing,-,7,  Mike Davis  ,West
+1956,TBD,Customer 956,  MacBook Pro  ,Clothing,365.19,1,  Lisa Garcia  ,Central
+1957,1/24/2024,Customef 957,wacBook Pro,Clothing,"$1,874.672",3,Mike Davis,  North  
+1958,Invalid Date,Customer 958,Dell XPS 13,electrONics,851.11,TBD,  jessICa martineZ  ,cenTRal
+1959,04-06-2023,Customer 959,Xbox Series r,cLothIng,461.31,7,  John Smith  , kNorth  
+1960,1/19/2023,Customer 960,Dell dPS 13,Technology,1177.43,9,Lisa Garcia,Norsh
+1961,2/16/2023,Customer 961,Dell XPS 13,Sports,1860.2,7,Emily Brown,East
+ORD-1962,4/14/2024,  Customer 96z  ,AirPods Pro,  Technology  ,599.95,6,Missing,North
+1963,10/22/2024,Customer 963,Sony WH-1000XM5,Electronics,#N/A,2,amanDa TAylor,South
+1964,25-11-2024,Customer 964,AirPods Pro,Electronics,TBD,10,NULL,West
+ORD-1965,17-12-2024,Customer 965,  Tesla Model 3  ,Clothing,N/A,9,Kevin Anderson,  North  
+ORD-1965,10/27/2024,Customer 966,  Adidas Ultmaboost  ,Home,NULL,1,Lisa Garcia,SoUtH
+1967,5/26/2024,Customek 967,Sony WH-1000XM5,Sports,"$1,575.325",6,Lisa Garcia,West
+1968,01-02-2023,Customer 968,Nike Air Max,Electronics,$786.046,8,emILy BrOWN,West
+1969,16-06-2024,Customer 969,Samsung Galaxy S24,clOthIng,299.6009453120225 dollars,1,Mike Davis,West
+1970,9/13/2024,Customer 970,Surface Pro,cLOtHing,Missing,8,John Smith,Central
+1971,4/23/2024,Custlmer 971,Nintendo Switch,Clothqng,TBD,1,  Mike Davis  ,West
+1972,13-04-2024,  Customer 972  ,Surface Pro,  Sports  ,486.16,4,Chris Wilson,North
+1973,21-08-2024,Customer 973,MacBook Pro,  Home  ,N/A,8,Sarah Johnson,West
+1974,26-11-2023,  Customer 974  ,iPhone 15,  Clothing  ,1822.37,8,  Kevin Anderson  ,West
+1975,30-12-2023,Customer 975,Canon EOS R5,Clothing,90.94100715070303 dollars,4,  Kevin Anderson  ,Central
+1976,TBD,Customer 976,Blender Pro,Technology,1580.08,10,N/A,North
+1977,Invalid Date,  Customer 977  ,Yoga Mat,  Technology  ,1125.18,6,KEVin AnDeRson,East
+1978,Invalid Date,Custozer 978,Canon EOS R5,Technology,#N/A,5,Lisa Garcia,  South  
+1979,TBD,Customer 979,  Blender Pro  ,  TEchnolOgY  ,TBD,8,N/A,West
+1980,Invalid Date,Customer 980,  Coffee Maker  ,Sports,N/A,3,Sarah Johnson,Central
+1981,Invalid Date,Customer 981,AirPods Pro,  Technology  ,"13,89,33,68,78,73,30,400",10,EMILy broWn,East
+1982,Invalid Date,Customer 982,  Fitness Tracker  ,Electronics,146.16,7,John Smith,Central
+1983,20-12-2023,Customer 983,ipaD aIR,eLeCtRoNics,1271.93,3,David Lee,North
+1984,12/20/2024,Customer 984,Sony WH-1000XM5,Sports,399.17,#N/A,N/A,North
+1985,10-07-2024,Customtr 985,  AiRpOdS pRo  ,Electronics,N/A,7,N/A,Wxst
+1986,9/22/2024,  cuStoMeR 986  ,Nintendo Switch,  Clothing  ,TBD,2,-,centRal
+1987,23-09-2023,custoMEr 987,PlayStation 5,Sports,$126.37,2,TBD,East
+1988,Invalid Date,Customer 988,Coffee Maker,Home,1555.33,1,#N/A,Central
+1989,Invalid Date,Customer 989,Sony WH-1000XM5,Home,1570.77,10,Sarah Johnson,North
+ORD-1990,9/30/2024,custoMEr 990,  Blender Pro  ,Technodogy,#N/A,10,-,Soath
+ORD-1991,12-11-2024,Customer 991,PlayStation 5,Technology,1020.71,2,Mike Davis,Central
+1992,21-05-2024,  Customer 992  ,MacbOok pro,Technology,N/A,3,Mike Davis,  worth  
+1993,Invalid Date,CustOMEr 993,  nintenDo SwitcH  ,Clothing,217.89,3,Kevin Anderson,gest
+1994,31-10-2024,Customer 9c4,Blender Pro,Sports,1405.1931723684695 dollars,4,-,cENtraL
+1995,06-10-2023,  Customer 995  ,Surface Pro,Technology,211.68254366831448 dollars,8,  Jessica Martinez  ,  wEsT  
+ORD-1996,12-02-2023,  Customer 996  ,Tesla jodel 3,  Home  ,"$1,881.16",10,jessiCa MArtINez,nortH
+1997,09-01-2024,Customer 997,  LeVi's jeAnS  ,Tekhnology,NULL,9,-,West
+1998,30-06-2023,cuStOmer 998,  Coffee Maker  ,Electronics,-,5,Kevin Anderson,soUtH
+1999,31-10-2023,  Customer 999  ,Tesla Model 3,Home,1313.09,2,#N/A,noRth
+2000,16-07-2024,Customer 1000,XbOx SerIES X,Clothing,1951.6,7,Chris Wilson,nortH
